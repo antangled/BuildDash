@@ -1,0 +1,344 @@
+[
+  {
+    "id": "PLA",
+    "name": "PLA",
+    "fullName": "Polylactic Acid",
+    "category": "FDM Filament",
+    "costPerGram": 0.02,
+    "description": "Most common 3D printing material. Biodegradable, easy to print.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "PETG",
+    "name": "PETG",
+    "fullName": "Polyethylene Terephthalate Glycol",
+    "category": "FDM Filament",
+    "costPerGram": 0.025,
+    "description": "Stronger than PLA with good chemical resistance.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "ABS",
+    "name": "ABS",
+    "fullName": "Acrylonitrile Butadiene Styrene",
+    "category": "FDM Filament",
+    "costPerGram": 0.025,
+    "description": "Durable and heat-resistant. Requires enclosed printer.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "Nylon",
+    "name": "Nylon",
+    "fullName": "Polyamide (PA6/PA12)",
+    "category": "FDM Filament",
+    "costPerGram": 0.04,
+    "description": "Very strong, flexible, and wear-resistant.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "TPU",
+    "name": "TPU",
+    "fullName": "Thermoplastic Polyurethane",
+    "category": "FDM Filament",
+    "costPerGram": 0.035,
+    "description": "Flexible, rubber-like material for gaskets and grips.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "ASA",
+    "name": "ASA",
+    "fullName": "Acrylonitrile Styrene Acrylate",
+    "category": "FDM Filament",
+    "costPerGram": 0.03,
+    "description": "UV-resistant alternative to ABS for outdoor use.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "PC",
+    "name": "PC",
+    "fullName": "Polycarbonate",
+    "category": "FDM Filament",
+    "costPerGram": 0.04,
+    "description": "Extremely tough and heat-resistant engineering plastic.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "HIPS",
+    "name": "HIPS",
+    "fullName": "High Impact Polystyrene",
+    "category": "FDM Filament",
+    "costPerGram": 0.02,
+    "description": "Dissolvable support material for ABS prints.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "Wood_PLA",
+    "name": "Wood PLA",
+    "fullName": "Wood-Fiber PLA Composite",
+    "category": "FDM Filament",
+    "costPerGram": 0.035,
+    "description": "PLA with wood fibers for a natural wood appearance.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "Carbon_Fiber",
+    "name": "Carbon Fiber",
+    "fullName": "Carbon Fiber Reinforced Nylon/PETG",
+    "category": "FDM Filament",
+    "costPerGram": 0.06,
+    "description": "Extremely stiff and strong composite filament.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "Metal_Fill",
+    "name": "Metal Fill",
+    "fullName": "Metal-Infused PLA",
+    "category": "FDM Filament",
+    "costPerGram": 0.05,
+    "description": "PLA with metal powder for metallic finish and weight.",
+    "compatibleTypes": ["FDM"]
+  },
+  {
+    "id": "Standard_Resin",
+    "name": "Standard Resin",
+    "fullName": "Standard UV Photopolymer Resin",
+    "category": "Resin",
+    "costPerGram": 0.04,
+    "description": "General-purpose resin with high detail and smooth finish.",
+    "compatibleTypes": ["SLA"]
+  },
+  {
+    "id": "Tough_Resin",
+    "name": "Tough Resin",
+    "fullName": "ABS-Like Tough Resin",
+    "category": "Resin",
+    "costPerGram": 0.06,
+    "description": "Impact-resistant resin mimicking ABS properties.",
+    "compatibleTypes": ["SLA"]
+  },
+  {
+    "id": "Flexible_Resin",
+    "name": "Flexible Resin",
+    "fullName": "Flexible/Elastic Resin",
+    "category": "Resin",
+    "costPerGram": 0.07,
+    "description": "Rubber-like flexible resin for soft-touch parts.",
+    "compatibleTypes": ["SLA"]
+  },
+  {
+    "id": "Castable_Resin",
+    "name": "Castable Resin",
+    "fullName": "Castable Wax Resin",
+    "category": "Resin",
+    "costPerGram": 0.08,
+    "description": "Burns out cleanly for investment casting of jewelry/metal.",
+    "compatibleTypes": ["SLA"]
+  },
+  {
+    "id": "Dental_Resin",
+    "name": "Dental Resin",
+    "fullName": "Biocompatible Dental Resin",
+    "category": "Resin",
+    "costPerGram": 0.15,
+    "description": "FDA-cleared resin for dental models and surgical guides.",
+    "compatibleTypes": ["SLA"]
+  },
+  {
+    "id": "Nylon_SLS",
+    "name": "Nylon SLS",
+    "fullName": "PA12 Nylon Powder",
+    "category": "SLS Powder",
+    "costPerGram": 0.10,
+    "description": "Standard SLS powder for durable functional parts.",
+    "compatibleTypes": ["SLS"]
+  },
+  {
+    "id": "Aluminum",
+    "name": "Aluminum",
+    "fullName": "Aluminum (6061/7075)",
+    "category": "Metal",
+    "costPerGram": 0.15,
+    "description": "Lightweight, excellent machinability. Most common CNC metal.",
+    "compatibleTypes": ["CNC", "Plasma", "Waterjet"]
+  },
+  {
+    "id": "Steel",
+    "name": "Mild Steel",
+    "fullName": "Mild/Carbon Steel",
+    "category": "Metal",
+    "costPerGram": 0.08,
+    "description": "Strong, weldable, affordable. Standard structural metal.",
+    "compatibleTypes": ["CNC", "Plasma", "Waterjet", "EDM", "Wire_EDM"]
+  },
+  {
+    "id": "Stainless_Steel",
+    "name": "Stainless Steel",
+    "fullName": "Stainless Steel (304/316)",
+    "category": "Metal",
+    "costPerGram": 0.12,
+    "description": "Corrosion-resistant steel for food/medical applications.",
+    "compatibleTypes": ["CNC", "Plasma", "Waterjet", "EDM", "Wire_EDM"]
+  },
+  {
+    "id": "Titanium",
+    "name": "Titanium",
+    "fullName": "Titanium (Grade 5 / Ti-6Al-4V)",
+    "category": "Metal",
+    "costPerGram": 0.50,
+    "description": "Lightweight, extremely strong. Aerospace and medical grade.",
+    "compatibleTypes": ["CNC", "Waterjet", "EDM", "Wire_EDM"]
+  },
+  {
+    "id": "Brass",
+    "name": "Brass",
+    "fullName": "Brass (C360)",
+    "category": "Metal",
+    "costPerGram": 0.12,
+    "description": "Easy to machine, good for decorative and electrical parts.",
+    "compatibleTypes": ["CNC", "Plasma", "Waterjet"]
+  },
+  {
+    "id": "Copper",
+    "name": "Copper",
+    "fullName": "Copper (C110)",
+    "category": "Metal",
+    "costPerGram": 0.14,
+    "description": "Excellent thermal and electrical conductivity.",
+    "compatibleTypes": ["CNC", "Plasma", "Waterjet", "EDM"]
+  },
+  {
+    "id": "Bronze",
+    "name": "Bronze",
+    "fullName": "Bronze (C932)",
+    "category": "Metal",
+    "costPerGram": 0.13,
+    "description": "Wear-resistant bearing material with low friction.",
+    "compatibleTypes": ["CNC", "Waterjet"]
+  },
+  {
+    "id": "Wood",
+    "name": "Wood",
+    "fullName": "Hardwood / Softwood",
+    "category": "Natural",
+    "costPerGram": 0.01,
+    "description": "Natural material for CNC routing and laser cutting.",
+    "compatibleTypes": ["CNC", "Laser"]
+  },
+  {
+    "id": "Acrylic",
+    "name": "Acrylic",
+    "fullName": "Acrylic (PMMA)",
+    "category": "Plastic Sheet",
+    "costPerGram": 0.05,
+    "description": "Clear or colored plastic. Great for laser cutting.",
+    "compatibleTypes": ["CNC", "Laser"]
+  },
+  {
+    "id": "Delrin",
+    "name": "Delrin",
+    "fullName": "Delrin / Acetal (POM)",
+    "category": "Engineering Plastic",
+    "costPerGram": 0.06,
+    "description": "Low-friction engineering plastic for gears and bearings.",
+    "compatibleTypes": ["CNC"]
+  },
+  {
+    "id": "HDPE",
+    "name": "HDPE",
+    "fullName": "High-Density Polyethylene",
+    "category": "Plastic Sheet",
+    "costPerGram": 0.03,
+    "description": "Chemical-resistant, food-safe plastic.",
+    "compatibleTypes": ["CNC"]
+  },
+  {
+    "id": "MDF",
+    "name": "MDF",
+    "fullName": "Medium-Density Fiberboard",
+    "category": "Wood Composite",
+    "costPerGram": 0.005,
+    "description": "Smooth, uniform engineered wood for CNC and laser.",
+    "compatibleTypes": ["CNC", "Laser"]
+  },
+  {
+    "id": "Plywood",
+    "name": "Plywood",
+    "fullName": "Baltic Birch Plywood",
+    "category": "Wood Composite",
+    "costPerGram": 0.008,
+    "description": "Layered wood sheet, popular for laser cutting projects.",
+    "compatibleTypes": ["CNC", "Laser"]
+  },
+  {
+    "id": "Polycarbonate_Sheet",
+    "name": "Polycarbonate Sheet",
+    "fullName": "Polycarbonate (Lexan)",
+    "category": "Plastic Sheet",
+    "costPerGram": 0.06,
+    "description": "Impact-resistant clear plastic sheet material.",
+    "compatibleTypes": ["CNC", "Laser"]
+  },
+  {
+    "id": "Leather",
+    "name": "Leather",
+    "fullName": "Leather / Faux Leather",
+    "category": "Natural",
+    "costPerGram": 0.10,
+    "description": "Natural or synthetic leather for laser engraving/cutting.",
+    "compatibleTypes": ["Laser"]
+  },
+  {
+    "id": "Glass",
+    "name": "Glass",
+    "fullName": "Glass",
+    "category": "Mineral",
+    "costPerGram": 0.03,
+    "description": "For laser engraving. Cannot be laser cut.",
+    "compatibleTypes": ["Laser", "Waterjet"]
+  },
+  {
+    "id": "Fabric",
+    "name": "Fabric",
+    "fullName": "Fabric / Textile",
+    "category": "Textile",
+    "costPerGram": 0.04,
+    "description": "Various fabrics for laser cutting patterns.",
+    "compatibleTypes": ["Laser", "Other"]
+  },
+  {
+    "id": "Paper",
+    "name": "Paper",
+    "fullName": "Paper / Cardstock",
+    "category": "Paper",
+    "costPerGram": 0.002,
+    "description": "Paper and cardstock for laser or vinyl cutting.",
+    "compatibleTypes": ["Laser", "Other"]
+  },
+  {
+    "id": "Cardboard",
+    "name": "Cardboard",
+    "fullName": "Corrugated Cardboard",
+    "category": "Paper",
+    "costPerGram": 0.003,
+    "description": "Cardboard for prototyping and packaging.",
+    "compatibleTypes": ["Laser", "Other"]
+  },
+  {
+    "id": "Vinyl",
+    "name": "Vinyl",
+    "fullName": "Adhesive Vinyl",
+    "category": "Craft Material",
+    "costPerGram": 0.03,
+    "description": "Adhesive vinyl for decals, signs, and transfers.",
+    "compatibleTypes": ["Other"]
+  },
+  {
+    "id": "Foam",
+    "name": "Foam",
+    "fullName": "EVA / PE Foam",
+    "category": "Foam",
+    "costPerGram": 0.02,
+    "description": "Foam sheets for CNC routing and laser cutting.",
+    "compatibleTypes": ["CNC", "Laser", "Other"]
+  }
+]

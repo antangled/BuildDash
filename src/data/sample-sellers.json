@@ -1,0 +1,338 @@
+[
+  {
+    "id": "seller-001",
+    "name": "Mike's 3D Workshop",
+    "tier": "pro",
+    "rating": 4.8,
+    "totalOrders": 156,
+    "isOnline": true,
+    "location": { "lat": 37.7749, "lng": -122.4194, "zipCode": "94103", "city": "San Francisco", "state": "CA" },
+    "machines": [
+      {
+        "id": "sm-001",
+        "sellerId": "seller-001",
+        "catalogMachineId": "fdm-008",
+        "machineType": "FDM",
+        "machineName": "X1 Carbon",
+        "machineManufacturer": "Bambu Lab",
+        "buildVolume": { "x": 256, "y": 256, "z": 256 },
+        "availableMaterials": ["PLA", "PETG", "ABS", "Nylon", "TPU", "ASA", "Carbon_Fiber"],
+        "pricePerHour": 8.00,
+        "pricePerGram": 0.05,
+        "turnaroundDays": 2,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-002",
+        "sellerId": "seller-001",
+        "catalogMachineId": "sla-001",
+        "machineType": "SLA",
+        "machineName": "Form 3+",
+        "machineManufacturer": "Formlabs",
+        "buildVolume": { "x": 145, "y": 145, "z": 193 },
+        "availableMaterials": ["Standard_Resin", "Tough_Resin", "Flexible_Resin"],
+        "pricePerHour": 12.00,
+        "pricePerGram": 0.08,
+        "turnaroundDays": 3,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "seller-002",
+    "name": "Austin MakerSpace",
+    "tier": "premium",
+    "rating": 4.9,
+    "totalOrders": 312,
+    "isOnline": true,
+    "location": { "lat": 30.2672, "lng": -97.7431, "zipCode": "78701", "city": "Austin", "state": "TX" },
+    "machines": [
+      {
+        "id": "sm-003",
+        "sellerId": "seller-002",
+        "catalogMachineId": "fdm-005",
+        "machineType": "FDM",
+        "machineName": "Prusa MK4S",
+        "machineManufacturer": "Prusa Research",
+        "buildVolume": { "x": 250, "y": 210, "z": 220 },
+        "availableMaterials": ["PLA", "PETG", "ABS", "Nylon", "TPU", "ASA", "PC", "Carbon_Fiber"],
+        "pricePerHour": 6.00,
+        "pricePerGram": 0.04,
+        "turnaroundDays": 1,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-004",
+        "sellerId": "seller-002",
+        "catalogMachineId": "cnc-001",
+        "machineType": "CNC",
+        "machineName": "Shapeoko 5 Pro",
+        "machineManufacturer": "Carbide 3D",
+        "buildVolume": { "x": 440, "y": 440, "z": 100 },
+        "availableMaterials": ["Aluminum", "Wood", "Acrylic", "Delrin", "HDPE"],
+        "pricePerHour": 25.00,
+        "pricePerGram": 0.15,
+        "turnaroundDays": 3,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-005",
+        "sellerId": "seller-002",
+        "catalogMachineId": "laser-001",
+        "machineType": "Laser",
+        "machineName": "Glowforge Pro",
+        "machineManufacturer": "Glowforge",
+        "buildVolume": { "x": 495, "y": 279, "z": 50 },
+        "availableMaterials": ["Wood", "Acrylic", "Leather", "MDF", "Plywood"],
+        "pricePerHour": 15.00,
+        "turnaroundDays": 2,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "seller-003",
+    "name": "Chi-Town Fabrication",
+    "tier": "basic",
+    "rating": 4.5,
+    "totalOrders": 47,
+    "isOnline": true,
+    "location": { "lat": 41.8819, "lng": -87.6278, "zipCode": "60601", "city": "Chicago", "state": "IL" },
+    "machines": [
+      {
+        "id": "sm-006",
+        "sellerId": "seller-003",
+        "catalogMachineId": "fdm-001",
+        "machineType": "FDM",
+        "machineName": "Ender 3 V3",
+        "machineManufacturer": "Creality",
+        "buildVolume": { "x": 220, "y": 220, "z": 250 },
+        "availableMaterials": ["PLA", "PETG", "TPU"],
+        "pricePerHour": 5.00,
+        "pricePerGram": 0.03,
+        "turnaroundDays": 3,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-007",
+        "sellerId": "seller-003",
+        "catalogMachineId": "fdm-010",
+        "machineType": "FDM",
+        "machineName": "A1",
+        "machineManufacturer": "Bambu Lab",
+        "buildVolume": { "x": 256, "y": 256, "z": 256 },
+        "availableMaterials": ["PLA", "PETG", "TPU"],
+        "pricePerHour": 6.50,
+        "pricePerGram": 0.04,
+        "turnaroundDays": 2,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "seller-004",
+    "name": "NYC Precision Parts",
+    "tier": "pro",
+    "rating": 4.7,
+    "totalOrders": 89,
+    "isOnline": true,
+    "location": { "lat": 40.7484, "lng": -73.9967, "zipCode": "10001", "city": "New York", "state": "NY" },
+    "machines": [
+      {
+        "id": "sm-008",
+        "sellerId": "seller-004",
+        "catalogMachineId": "cnc-003",
+        "machineType": "CNC",
+        "machineName": "Nomad 3",
+        "machineManufacturer": "Carbide 3D",
+        "buildVolume": { "x": 203, "y": 203, "z": 76 },
+        "availableMaterials": ["Aluminum", "Steel", "Brass", "Copper", "Wood", "Acrylic", "Delrin"],
+        "pricePerHour": 35.00,
+        "pricePerGram": 0.20,
+        "turnaroundDays": 4,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-009",
+        "sellerId": "seller-004",
+        "catalogMachineId": "fdm-008",
+        "machineType": "FDM",
+        "machineName": "X1 Carbon",
+        "machineManufacturer": "Bambu Lab",
+        "buildVolume": { "x": 256, "y": 256, "z": 256 },
+        "availableMaterials": ["PLA", "PETG", "ABS", "Nylon", "TPU", "Carbon_Fiber"],
+        "pricePerHour": 10.00,
+        "pricePerGram": 0.05,
+        "turnaroundDays": 2,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "seller-005",
+    "name": "Denver Maker Co.",
+    "tier": "basic",
+    "rating": 4.6,
+    "totalOrders": 63,
+    "isOnline": true,
+    "location": { "lat": 39.7392, "lng": -104.9903, "zipCode": "80201", "city": "Denver", "state": "CO" },
+    "machines": [
+      {
+        "id": "sm-010",
+        "sellerId": "seller-005",
+        "catalogMachineId": "fdm-009",
+        "machineType": "FDM",
+        "machineName": "P1S",
+        "machineManufacturer": "Bambu Lab",
+        "buildVolume": { "x": 256, "y": 256, "z": 256 },
+        "availableMaterials": ["PLA", "PETG", "ABS", "Nylon", "TPU", "ASA"],
+        "pricePerHour": 7.00,
+        "pricePerGram": 0.04,
+        "turnaroundDays": 2,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-011",
+        "sellerId": "seller-005",
+        "catalogMachineId": "plasma-001",
+        "machineType": "Plasma",
+        "machineName": "CrossFire PRO",
+        "machineManufacturer": "Langmuir Systems",
+        "buildVolume": { "x": 1225, "y": 845, "z": 76 },
+        "availableMaterials": ["Steel", "Stainless_Steel", "Aluminum"],
+        "pricePerHour": 40.00,
+        "turnaroundDays": 5,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "seller-006",
+    "name": "Portland Print Lab",
+    "tier": "pro",
+    "rating": 4.9,
+    "totalOrders": 201,
+    "isOnline": true,
+    "location": { "lat": 45.5152, "lng": -122.6784, "zipCode": "97201", "city": "Portland", "state": "OR" },
+    "machines": [
+      {
+        "id": "sm-012",
+        "sellerId": "seller-006",
+        "catalogMachineId": "fdm-007",
+        "machineType": "FDM",
+        "machineName": "Prusa XL",
+        "machineManufacturer": "Prusa Research",
+        "buildVolume": { "x": 360, "y": 360, "z": 360 },
+        "availableMaterials": ["PLA", "PETG", "ABS", "Nylon", "TPU", "ASA", "PC", "Carbon_Fiber"],
+        "pricePerHour": 10.00,
+        "pricePerGram": 0.05,
+        "turnaroundDays": 2,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-013",
+        "sellerId": "seller-006",
+        "catalogMachineId": "sla-007",
+        "machineType": "SLA",
+        "machineName": "Saturn 4 Ultra",
+        "machineManufacturer": "Elegoo",
+        "buildVolume": { "x": 218, "y": 123, "z": 260 },
+        "availableMaterials": ["Standard_Resin", "Tough_Resin", "Flexible_Resin", "Castable_Resin"],
+        "pricePerHour": 8.00,
+        "pricePerGram": 0.06,
+        "turnaroundDays": 2,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-014",
+        "sellerId": "seller-006",
+        "catalogMachineId": "laser-003",
+        "machineType": "Laser",
+        "machineName": "xTool D1 Pro 20W",
+        "machineManufacturer": "xTool",
+        "buildVolume": { "x": 430, "y": 390, "z": 0 },
+        "availableMaterials": ["Wood", "Acrylic", "Leather", "MDF", "Plywood"],
+        "pricePerHour": 12.00,
+        "turnaroundDays": 2,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "seller-007",
+    "name": "Southeast Fabricators",
+    "tier": "basic",
+    "rating": 4.4,
+    "totalOrders": 34,
+    "isOnline": true,
+    "location": { "lat": 33.7490, "lng": -84.3880, "zipCode": "30301", "city": "Atlanta", "state": "GA" },
+    "machines": [
+      {
+        "id": "sm-015",
+        "sellerId": "seller-007",
+        "catalogMachineId": "fdm-004",
+        "machineType": "FDM",
+        "machineName": "K1 Max",
+        "machineManufacturer": "Creality",
+        "buildVolume": { "x": 300, "y": 300, "z": 300 },
+        "availableMaterials": ["PLA", "PETG", "ABS", "Nylon", "TPU", "ASA", "PC"],
+        "pricePerHour": 7.50,
+        "pricePerGram": 0.04,
+        "turnaroundDays": 3,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "seller-008",
+    "name": "Seattle Metal Works",
+    "tier": "premium",
+    "rating": 4.8,
+    "totalOrders": 178,
+    "isOnline": true,
+    "location": { "lat": 47.6062, "lng": -122.3321, "zipCode": "98101", "city": "Seattle", "state": "WA" },
+    "machines": [
+      {
+        "id": "sm-016",
+        "sellerId": "seller-008",
+        "catalogMachineId": "cnc-008",
+        "machineType": "CNC",
+        "machineName": "Tormach PCNC 440",
+        "machineManufacturer": "Tormach",
+        "buildVolume": { "x": 254, "y": 158, "z": 254 },
+        "availableMaterials": ["Aluminum", "Steel", "Stainless_Steel", "Titanium", "Brass", "Copper", "Delrin"],
+        "pricePerHour": 50.00,
+        "pricePerGram": 0.25,
+        "turnaroundDays": 5,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-017",
+        "sellerId": "seller-008",
+        "catalogMachineId": "plasma-003",
+        "machineType": "Plasma",
+        "machineName": "CrossFire XR",
+        "machineManufacturer": "Langmuir Systems",
+        "buildVolume": { "x": 1220, "y": 1220, "z": 100 },
+        "availableMaterials": ["Steel", "Stainless_Steel", "Aluminum", "Copper", "Brass"],
+        "pricePerHour": 45.00,
+        "turnaroundDays": 4,
+        "isAvailable": true
+      },
+      {
+        "id": "sm-018",
+        "sellerId": "seller-008",
+        "catalogMachineId": "fdm-015",
+        "machineType": "FDM",
+        "machineName": "Raise3D Pro3 Plus",
+        "machineManufacturer": "Raise3D",
+        "buildVolume": { "x": 300, "y": 300, "z": 605 },
+        "availableMaterials": ["PLA", "PETG", "ABS", "Nylon", "TPU", "ASA", "PC", "Carbon_Fiber"],
+        "pricePerHour": 12.00,
+        "pricePerGram": 0.06,
+        "turnaroundDays": 3,
+        "isAvailable": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,8741 @@
+[
+  {
+    "id": "fdm-001",
+    "name": "Ender 3 V3",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "popular",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 219
+  },
+  {
+    "id": "fdm-002",
+    "name": "Ender 3 V3 SE",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "beginner"
+    ],
+    "yearReleased": 2023,
+    "msrp": 199
+  },
+  {
+    "id": "fdm-003",
+    "name": "Ender 3 V3 KE",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 240
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 249
+  },
+  {
+    "id": "fdm-004",
+    "name": "K1",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon"
+    ],
+    "tags": [
+      "high-speed",
+      "enclosed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 419
+  },
+  {
+    "id": "fdm-005",
+    "name": "K1 Max",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon"
+    ],
+    "tags": [
+      "high-speed",
+      "enclosed",
+      "large-format"
+    ],
+    "yearReleased": 2023,
+    "msrp": 599
+  },
+  {
+    "id": "fdm-006",
+    "name": "K1C",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "high-speed",
+      "enclosed",
+      "all-metal-hotend"
+    ],
+    "yearReleased": 2024,
+    "msrp": 449
+  },
+  {
+    "id": "fdm-007",
+    "name": "K1 SE",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "high-speed",
+      "budget"
+    ],
+    "yearReleased": 2024,
+    "msrp": 329
+  },
+  {
+    "id": "fdm-008",
+    "name": "CR-10 SE",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "large-format",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 399
+  },
+  {
+    "id": "fdm-009",
+    "name": "CR-M4",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 450,
+      "y": 450,
+      "z": 470
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA"
+    ],
+    "tags": [
+      "large-format",
+      "industrial"
+    ],
+    "yearReleased": 2023,
+    "msrp": 899
+  },
+  {
+    "id": "fdm-010",
+    "name": "Sermoon D3",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 250,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC"
+    ],
+    "tags": [
+      "enclosed",
+      "industrial"
+    ],
+    "yearReleased": 2023,
+    "msrp": 999
+  },
+  {
+    "id": "fdm-011",
+    "name": "Ender 3 S1 Pro",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 270
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "Wood_PLA"
+    ],
+    "tags": [
+      "all-metal-hotend",
+      "popular"
+    ],
+    "yearReleased": 2022,
+    "msrp": 399
+  },
+  {
+    "id": "fdm-012",
+    "name": "Ender 3 S1 Plus",
+    "manufacturer": "Creality",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 449
+  },
+  {
+    "id": "fdm-013",
+    "name": "X1 Carbon",
+    "manufacturer": "Bambu Lab",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 256,
+      "y": 256,
+      "z": 256
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "premium",
+      "enclosed",
+      "high-speed",
+      "multi-material",
+      "ams"
+    ],
+    "yearReleased": 2023,
+    "msrp": 1449
+  },
+  {
+    "id": "fdm-014",
+    "name": "X1E",
+    "manufacturer": "Bambu Lab",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 256,
+      "y": 256,
+      "z": 256
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "premium",
+      "enclosed",
+      "high-speed",
+      "industrial",
+      "multi-material"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1999
+  },
+  {
+    "id": "fdm-015",
+    "name": "P1S",
+    "manufacturer": "Bambu Lab",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 256,
+      "y": 256,
+      "z": 256
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC"
+    ],
+    "tags": [
+      "enclosed",
+      "high-speed",
+      "multi-material"
+    ],
+    "yearReleased": 2023,
+    "msrp": 699
+  },
+  {
+    "id": "fdm-016",
+    "name": "P1P",
+    "manufacturer": "Bambu Lab",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 256,
+      "y": 256,
+      "z": 256
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "high-speed",
+      "multi-material"
+    ],
+    "yearReleased": 2023,
+    "msrp": 599
+  },
+  {
+    "id": "fdm-017",
+    "name": "A1",
+    "manufacturer": "Bambu Lab",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 256,
+      "y": 256,
+      "z": 256
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "TPU",
+      "ASA"
+    ],
+    "tags": [
+      "high-speed",
+      "multi-material",
+      "popular"
+    ],
+    "yearReleased": 2024,
+    "msrp": 399
+  },
+  {
+    "id": "fdm-018",
+    "name": "A1 Mini",
+    "manufacturer": "Bambu Lab",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 180,
+      "y": 180,
+      "z": 180
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "TPU"
+    ],
+    "tags": [
+      "compact",
+      "high-speed",
+      "budget",
+      "multi-material"
+    ],
+    "yearReleased": 2023,
+    "msrp": 299
+  },
+  {
+    "id": "fdm-019",
+    "name": "MK4S",
+    "manufacturer": "Prusa",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 250,
+      "y": 210,
+      "z": 220
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "HIPS"
+    ],
+    "tags": [
+      "popular",
+      "open-source",
+      "reliable"
+    ],
+    "yearReleased": 2024,
+    "msrp": 799
+  },
+  {
+    "id": "fdm-020",
+    "name": "CORE One",
+    "manufacturer": "Prusa",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 250,
+      "y": 220,
+      "z": 270
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "HIPS"
+    ],
+    "tags": [
+      "enclosed",
+      "high-speed",
+      "corexy",
+      "premium"
+    ],
+    "yearReleased": 2025,
+    "msrp": 1199
+  },
+  {
+    "id": "fdm-021",
+    "name": "XL",
+    "manufacturer": "Prusa",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 360,
+      "y": 360,
+      "z": 360
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "HIPS"
+    ],
+    "tags": [
+      "large-format",
+      "multi-material",
+      "premium",
+      "tool-changer"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1999
+  },
+  {
+    "id": "fdm-022",
+    "name": "Mini+",
+    "manufacturer": "Prusa",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 180,
+      "y": 180,
+      "z": 180
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA"
+    ],
+    "tags": [
+      "compact",
+      "reliable",
+      "open-source"
+    ],
+    "yearReleased": 2021,
+    "msrp": 459
+  },
+  {
+    "id": "fdm-023",
+    "name": "MK3S+",
+    "manufacturer": "Prusa",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 250,
+      "y": 210,
+      "z": 210
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "HIPS"
+    ],
+    "tags": [
+      "popular",
+      "open-source",
+      "reliable"
+    ],
+    "yearReleased": 2021,
+    "msrp": 799
+  },
+  {
+    "id": "fdm-024",
+    "name": "Neptune 4",
+    "manufacturer": "Elegoo",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 225,
+      "y": 225,
+      "z": 265
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 239
+  },
+  {
+    "id": "fdm-025",
+    "name": "Neptune 4 Pro",
+    "manufacturer": "Elegoo",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 225,
+      "y": 225,
+      "z": 265
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "Nylon"
+    ],
+    "tags": [
+      "budget",
+      "high-speed",
+      "all-metal-hotend"
+    ],
+    "yearReleased": 2023,
+    "msrp": 299
+  },
+  {
+    "id": "fdm-026",
+    "name": "Neptune 4 Plus",
+    "manufacturer": "Elegoo",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 320,
+      "y": 320,
+      "z": 385
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "Nylon"
+    ],
+    "tags": [
+      "large-format",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 399
+  },
+  {
+    "id": "fdm-027",
+    "name": "Neptune 4 Max",
+    "manufacturer": "Elegoo",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 420,
+      "y": 420,
+      "z": 480
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "Nylon"
+    ],
+    "tags": [
+      "large-format",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 499
+  },
+  {
+    "id": "fdm-028",
+    "name": "Kobra 2",
+    "manufacturer": "Anycubic",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 209
+  },
+  {
+    "id": "fdm-029",
+    "name": "Kobra 2 Max",
+    "manufacturer": "Anycubic",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 420,
+      "y": 420,
+      "z": 500
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "large-format",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 569
+  },
+  {
+    "id": "fdm-030",
+    "name": "Kobra 2 Plus",
+    "manufacturer": "Anycubic",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 320,
+      "y": 320,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "large-format",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 389
+  },
+  {
+    "id": "fdm-031",
+    "name": "Kobra 2 Pro",
+    "manufacturer": "Anycubic",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 249
+  },
+  {
+    "id": "fdm-032",
+    "name": "Vyper",
+    "manufacturer": "Anycubic",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 245,
+      "y": 245,
+      "z": 260
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "auto-leveling"
+    ],
+    "yearReleased": 2021,
+    "msrp": 299
+  },
+  {
+    "id": "fdm-033",
+    "name": "Voron 0.2",
+    "manufacturer": "Voron",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 120,
+      "y": 120,
+      "z": 120
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC"
+    ],
+    "tags": [
+      "diy",
+      "compact",
+      "enclosed",
+      "corexy",
+      "open-source"
+    ],
+    "yearReleased": 2022,
+    "msrp": 400
+  },
+  {
+    "id": "fdm-034",
+    "name": "Voron Trident",
+    "manufacturer": "Voron",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC"
+    ],
+    "tags": [
+      "diy",
+      "enclosed",
+      "corexy",
+      "open-source",
+      "high-speed"
+    ],
+    "yearReleased": 2021,
+    "msrp": 800
+  },
+  {
+    "id": "fdm-035",
+    "name": "Voron 2.4",
+    "manufacturer": "Voron",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 350,
+      "y": 350,
+      "z": 340
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC"
+    ],
+    "tags": [
+      "diy",
+      "enclosed",
+      "corexy",
+      "open-source",
+      "high-speed",
+      "premium"
+    ],
+    "yearReleased": 2021,
+    "msrp": 1200
+  },
+  {
+    "id": "fdm-036",
+    "name": "Pro3",
+    "manufacturer": "Raise3D",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "dual-extruder",
+      "premium"
+    ],
+    "yearReleased": 2022,
+    "msrp": 3999
+  },
+  {
+    "id": "fdm-037",
+    "name": "Pro3 Plus",
+    "manufacturer": "Raise3D",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 605
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "dual-extruder",
+      "premium",
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 5499
+  },
+  {
+    "id": "fdm-038",
+    "name": "E2",
+    "manufacturer": "Raise3D",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 330,
+      "y": 240,
+      "z": 240
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "idex",
+      "dual-extruder"
+    ],
+    "yearReleased": 2020,
+    "msrp": 3499
+  },
+  {
+    "id": "fdm-039",
+    "name": "E2CF",
+    "manufacturer": "Raise3D",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 330,
+      "y": 240,
+      "z": 240
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "idex",
+      "dual-extruder"
+    ],
+    "yearReleased": 2022,
+    "msrp": 4499
+  },
+  {
+    "id": "fdm-040",
+    "name": "S3",
+    "manufacturer": "Ultimaker",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 230,
+      "y": 190,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "Nylon",
+      "PC",
+      "HIPS",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "premium",
+      "enclosed",
+      "dual-extruder",
+      "reliable"
+    ],
+    "yearReleased": 2019,
+    "msrp": 3850
+  },
+  {
+    "id": "fdm-041",
+    "name": "S5",
+    "manufacturer": "Ultimaker",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 330,
+      "y": 240,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "Nylon",
+      "PC",
+      "HIPS",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "premium",
+      "enclosed",
+      "dual-extruder",
+      "large-format",
+      "industrial"
+    ],
+    "yearReleased": 2018,
+    "msrp": 5995
+  },
+  {
+    "id": "fdm-042",
+    "name": "S7",
+    "manufacturer": "Ultimaker",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 330,
+      "y": 240,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "Nylon",
+      "PC",
+      "HIPS",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "premium",
+      "enclosed",
+      "dual-extruder",
+      "large-format",
+      "industrial"
+    ],
+    "yearReleased": 2023,
+    "msrp": 6495
+  },
+  {
+    "id": "fdm-043",
+    "name": "Method",
+    "manufacturer": "Ultimaker",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 190,
+      "y": 190,
+      "z": 196
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "premium",
+      "enclosed",
+      "industrial"
+    ],
+    "yearReleased": 2019,
+    "msrp": 4999
+  },
+  {
+    "id": "fdm-044",
+    "name": "Method",
+    "manufacturer": "MakerBot",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 190,
+      "y": 190,
+      "z": 196
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "enclosed",
+      "industrial"
+    ],
+    "yearReleased": 2019,
+    "msrp": 4999
+  },
+  {
+    "id": "fdm-045",
+    "name": "Method X",
+    "manufacturer": "MakerBot",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 190,
+      "y": 190,
+      "z": 196
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon",
+      "ASA",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "enclosed",
+      "industrial",
+      "heated-chamber"
+    ],
+    "yearReleased": 2019,
+    "msrp": 6499
+  },
+  {
+    "id": "fdm-046",
+    "name": "Method XL",
+    "manufacturer": "MakerBot",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 305,
+      "y": 305,
+      "z": 320
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon",
+      "ASA",
+      "Carbon_Fiber",
+      "PC"
+    ],
+    "tags": [
+      "enclosed",
+      "industrial",
+      "heated-chamber",
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 8499
+  },
+  {
+    "id": "fdm-047",
+    "name": "Sketch",
+    "manufacturer": "MakerBot",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 150,
+      "y": 150,
+      "z": 150
+    },
+    "supportedMaterials": [
+      "PLA"
+    ],
+    "tags": [
+      "education",
+      "enclosed",
+      "compact",
+      "beginner"
+    ],
+    "yearReleased": 2020,
+    "msrp": 2499
+  },
+  {
+    "id": "fdm-048",
+    "name": "Adventurer 5M",
+    "manufacturer": "FlashForge",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 220
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "high-speed",
+      "enclosed",
+      "budget"
+    ],
+    "yearReleased": 2023,
+    "msrp": 299
+  },
+  {
+    "id": "fdm-049",
+    "name": "Adventurer 5M Pro",
+    "manufacturer": "FlashForge",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 220
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "high-speed",
+      "enclosed",
+      "all-metal-hotend"
+    ],
+    "yearReleased": 2023,
+    "msrp": 379
+  },
+  {
+    "id": "fdm-050",
+    "name": "Creator 4",
+    "manufacturer": "FlashForge",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 400,
+      "y": 350,
+      "z": 500
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "idex",
+      "large-format",
+      "premium"
+    ],
+    "yearReleased": 2023,
+    "msrp": 6999
+  },
+  {
+    "id": "fdm-051",
+    "name": "Guider 3",
+    "manufacturer": "FlashForge",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 250,
+      "z": 340
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC"
+    ],
+    "tags": [
+      "enclosed",
+      "large-format"
+    ],
+    "yearReleased": 2023,
+    "msrp": 1599
+  },
+  {
+    "id": "fdm-052",
+    "name": "X-Max 3",
+    "manufacturer": "Qidi",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 325,
+      "y": 325,
+      "z": 315
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "enclosed",
+      "high-speed",
+      "large-format"
+    ],
+    "yearReleased": 2023,
+    "msrp": 599
+  },
+  {
+    "id": "fdm-053",
+    "name": "X-Plus 3",
+    "manufacturer": "Qidi",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 280,
+      "y": 280,
+      "z": 270
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "enclosed",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 499
+  },
+  {
+    "id": "fdm-054",
+    "name": "X-Smart 3",
+    "manufacturer": "Qidi",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 175,
+      "y": 175,
+      "z": 170
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "compact",
+      "enclosed",
+      "high-speed",
+      "budget"
+    ],
+    "yearReleased": 2023,
+    "msrp": 299
+  },
+  {
+    "id": "fdm-055",
+    "name": "Q1 Pro",
+    "manufacturer": "Qidi",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 245,
+      "y": 245,
+      "z": 245
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "enclosed",
+      "high-speed",
+      "corexy"
+    ],
+    "yearReleased": 2024,
+    "msrp": 449
+  },
+  {
+    "id": "fdm-056",
+    "name": "SV06",
+    "manufacturer": "Sovol",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "all-metal-hotend"
+    ],
+    "yearReleased": 2022,
+    "msrp": 239
+  },
+  {
+    "id": "fdm-057",
+    "name": "SV06 Plus",
+    "manufacturer": "Sovol",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 340
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "large-format",
+      "all-metal-hotend"
+    ],
+    "yearReleased": 2023,
+    "msrp": 319
+  },
+  {
+    "id": "fdm-058",
+    "name": "SV07",
+    "manufacturer": "Sovol",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "high-speed",
+      "budget"
+    ],
+    "yearReleased": 2023,
+    "msrp": 269
+  },
+  {
+    "id": "fdm-059",
+    "name": "SV07 Plus",
+    "manufacturer": "Sovol",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 340
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "high-speed",
+      "large-format"
+    ],
+    "yearReleased": 2023,
+    "msrp": 399
+  },
+  {
+    "id": "fdm-060",
+    "name": "SV08",
+    "manufacturer": "Sovol",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 350,
+      "y": 350,
+      "z": 345
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon"
+    ],
+    "tags": [
+      "high-speed",
+      "corexy",
+      "large-format",
+      "open-source"
+    ],
+    "yearReleased": 2024,
+    "msrp": 499
+  },
+  {
+    "id": "fdm-061",
+    "name": "Sidewinder X3 Pro",
+    "manufacturer": "Artillery",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA"
+    ],
+    "tags": [
+      "large-format",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 389
+  },
+  {
+    "id": "fdm-062",
+    "name": "Sidewinder X4 Plus",
+    "manufacturer": "Artillery",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA"
+    ],
+    "tags": [
+      "large-format",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 449
+  },
+  {
+    "id": "fdm-063",
+    "name": "Genius Pro",
+    "manufacturer": "Artillery",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "compact"
+    ],
+    "yearReleased": 2022,
+    "msrp": 279
+  },
+  {
+    "id": "fdm-064",
+    "name": "TAZ Pro",
+    "manufacturer": "LulzBot",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 280,
+      "y": 280,
+      "z": 285
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "HIPS",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "dual-extruder",
+      "open-source",
+      "premium"
+    ],
+    "yearReleased": 2019,
+    "msrp": 4950
+  },
+  {
+    "id": "fdm-065",
+    "name": "TAZ Sidekick",
+    "manufacturer": "LulzBot",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 175,
+      "y": 175,
+      "z": 175
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon"
+    ],
+    "tags": [
+      "compact",
+      "open-source",
+      "education"
+    ],
+    "yearReleased": 2021,
+    "msrp": 995
+  },
+  {
+    "id": "fdm-066",
+    "name": "TAZ Workhorse",
+    "manufacturer": "LulzBot",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 280,
+      "y": 280,
+      "z": 285
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA",
+      "Nylon",
+      "PC",
+      "HIPS"
+    ],
+    "tags": [
+      "industrial",
+      "open-source",
+      "reliable"
+    ],
+    "yearReleased": 2019,
+    "msrp": 2500
+  },
+  {
+    "id": "fdm-067",
+    "name": "Onyx One",
+    "manufacturer": "Markforged",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 320,
+      "y": 132,
+      "z": 154
+    },
+    "supportedMaterials": [
+      "Nylon",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "premium"
+    ],
+    "yearReleased": 2019,
+    "msrp": 3500
+  },
+  {
+    "id": "fdm-068",
+    "name": "Onyx Pro",
+    "manufacturer": "Markforged",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 320,
+      "y": 132,
+      "z": 154
+    },
+    "supportedMaterials": [
+      "Nylon",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "continuous-fiber",
+      "premium"
+    ],
+    "yearReleased": 2019,
+    "msrp": 7000
+  },
+  {
+    "id": "fdm-069",
+    "name": "Mark Two",
+    "manufacturer": "Markforged",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 320,
+      "y": 132,
+      "z": 154
+    },
+    "supportedMaterials": [
+      "Nylon",
+      "Carbon_Fiber",
+      "Metal_Fill"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "continuous-fiber",
+      "premium"
+    ],
+    "yearReleased": 2017,
+    "msrp": 13500
+  },
+  {
+    "id": "fdm-070",
+    "name": "Funmat HT",
+    "manufacturer": "Intamsys",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 260,
+      "y": 260,
+      "z": 260
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon",
+      "PC",
+      "ASA",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "heated-chamber",
+      "premium"
+    ],
+    "yearReleased": 2018,
+    "msrp": 4999
+  },
+  {
+    "id": "fdm-071",
+    "name": "Funmat Pro 610",
+    "manufacturer": "Intamsys",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 610,
+      "y": 508,
+      "z": 508
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon",
+      "PC",
+      "ASA",
+      "Carbon_Fiber"
+    ],
+    "tags": [
+      "industrial",
+      "enclosed",
+      "heated-chamber",
+      "large-format",
+      "premium"
+    ],
+    "yearReleased": 2020,
+    "msrp": 49999
+  },
+  {
+    "id": "fdm-072",
+    "name": "Magician X2",
+    "manufacturer": "Mingda",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 230,
+      "y": 230,
+      "z": 260
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "budget"
+    ],
+    "yearReleased": 2022,
+    "msrp": 289
+  },
+  {
+    "id": "fdm-073",
+    "name": "Rock 3 Pro",
+    "manufacturer": "Mingda",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 500
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "large-format",
+      "budget"
+    ],
+    "yearReleased": 2023,
+    "msrp": 499
+  },
+  {
+    "id": "fdm-074",
+    "name": "KP3S Pro V2",
+    "manufacturer": "Kingroon",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 200,
+      "y": 200,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "TPU"
+    ],
+    "tags": [
+      "budget",
+      "compact",
+      "direct-drive"
+    ],
+    "yearReleased": 2023,
+    "msrp": 189
+  },
+  {
+    "id": "fdm-075",
+    "name": "KLP1",
+    "manufacturer": "Kingroon",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 210,
+      "y": 210,
+      "z": 210
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU",
+      "ASA"
+    ],
+    "tags": [
+      "high-speed",
+      "corexy",
+      "budget"
+    ],
+    "yearReleased": 2024,
+    "msrp": 279
+  },
+  {
+    "id": "fdm-076",
+    "name": "LK5 Pro",
+    "manufacturer": "Longer",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "TPU"
+    ],
+    "tags": [
+      "large-format",
+      "budget"
+    ],
+    "yearReleased": 2022,
+    "msrp": 349
+  },
+  {
+    "id": "fdm-077",
+    "name": "3D45",
+    "manufacturer": "Dremel",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 254,
+      "y": 152,
+      "z": 170
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "Nylon"
+    ],
+    "tags": [
+      "enclosed",
+      "education",
+      "beginner"
+    ],
+    "yearReleased": 2018,
+    "msrp": 1799
+  },
+  {
+    "id": "fdm-078",
+    "name": "DigiLab 3D40",
+    "manufacturer": "Dremel",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 254,
+      "y": 152,
+      "z": 170
+    },
+    "supportedMaterials": [
+      "PLA"
+    ],
+    "tags": [
+      "enclosed",
+      "education",
+      "beginner"
+    ],
+    "yearReleased": 2017,
+    "msrp": 1299
+  },
+  {
+    "id": "fdm-079",
+    "name": "3DWOX 1",
+    "manufacturer": "Sindoh",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 210,
+      "y": 200,
+      "z": 195
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS"
+    ],
+    "tags": [
+      "enclosed",
+      "beginner",
+      "reliable"
+    ],
+    "yearReleased": 2019,
+    "msrp": 1299
+  },
+  {
+    "id": "fdm-080",
+    "name": "3DWOX 2X",
+    "manufacturer": "Sindoh",
+    "type": "FDM",
+    "buildVolume": {
+      "x": 228,
+      "y": 200,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "HIPS"
+    ],
+    "tags": [
+      "enclosed",
+      "dual-extruder"
+    ],
+    "yearReleased": 2019,
+    "msrp": 2499
+  },
+  {
+    "id": "sla-001",
+    "name": "Form 3+",
+    "manufacturer": "Formlabs",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 145,
+      "y": 145,
+      "z": 185
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "premium",
+      "professional",
+      "reliable"
+    ],
+    "yearReleased": 2022,
+    "msrp": 3499
+  },
+  {
+    "id": "sla-002",
+    "name": "Form 3L",
+    "manufacturer": "Formlabs",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 335,
+      "y": 200,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "premium",
+      "professional",
+      "large-format"
+    ],
+    "yearReleased": 2020,
+    "msrp": 9999
+  },
+  {
+    "id": "sla-003",
+    "name": "Form 3BL",
+    "manufacturer": "Formlabs",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 335,
+      "y": 200,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "premium",
+      "professional",
+      "large-format",
+      "biocompatible",
+      "dental"
+    ],
+    "yearReleased": 2020,
+    "msrp": 11499
+  },
+  {
+    "id": "sla-004",
+    "name": "Form 4",
+    "manufacturer": "Formlabs",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 200,
+      "y": 125,
+      "z": 210
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "premium",
+      "professional",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 3999
+  },
+  {
+    "id": "sla-005",
+    "name": "Form 4L",
+    "manufacturer": "Formlabs",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 353,
+      "y": 196,
+      "z": 350
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "premium",
+      "professional",
+      "large-format",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 9999
+  },
+  {
+    "id": "sla-006",
+    "name": "Form 4B",
+    "manufacturer": "Formlabs",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 200,
+      "y": 125,
+      "z": 210
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "premium",
+      "professional",
+      "biocompatible",
+      "dental",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 4399
+  },
+  {
+    "id": "sla-007",
+    "name": "Mars 3 Pro",
+    "manufacturer": "Elegoo",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 143,
+      "y": 90,
+      "z": 175
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "budget",
+      "popular",
+      "compact"
+    ],
+    "yearReleased": 2022,
+    "msrp": 219
+  },
+  {
+    "id": "sla-008",
+    "name": "Mars 4 Ultra",
+    "manufacturer": "Elegoo",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 153,
+      "y": 97,
+      "z": 165
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "budget",
+      "high-resolution"
+    ],
+    "yearReleased": 2024,
+    "msrp": 249
+  },
+  {
+    "id": "sla-009",
+    "name": "Mars 4 DLP",
+    "manufacturer": "Elegoo",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 156,
+      "y": 98,
+      "z": 165
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "budget",
+      "dlp",
+      "high-resolution"
+    ],
+    "yearReleased": 2024,
+    "msrp": 299
+  },
+  {
+    "id": "sla-010",
+    "name": "Mars 5",
+    "manufacturer": "Elegoo",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 170,
+      "y": 107,
+      "z": 175
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "budget",
+      "high-resolution",
+      "tilt-release"
+    ],
+    "yearReleased": 2025,
+    "msrp": 199
+  },
+  {
+    "id": "sla-011",
+    "name": "Saturn 3 Ultra",
+    "manufacturer": "Elegoo",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 218,
+      "y": 123,
+      "z": 260
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "popular",
+      "large-format",
+      "high-resolution"
+    ],
+    "yearReleased": 2023,
+    "msrp": 349
+  },
+  {
+    "id": "sla-012",
+    "name": "Saturn 4 Ultra",
+    "manufacturer": "Elegoo",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 218,
+      "y": 123,
+      "z": 260
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "popular",
+      "large-format",
+      "high-resolution",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 399
+  },
+  {
+    "id": "sla-013",
+    "name": "Jupiter SE",
+    "manufacturer": "Elegoo",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 277,
+      "y": 156,
+      "z": 300
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin"
+    ],
+    "tags": [
+      "large-format"
+    ],
+    "yearReleased": 2023,
+    "msrp": 549
+  },
+  {
+    "id": "sla-014",
+    "name": "Photon Mono X 6K",
+    "manufacturer": "Anycubic",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 197,
+      "y": 122,
+      "z": 245
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "popular",
+      "high-resolution"
+    ],
+    "yearReleased": 2022,
+    "msrp": 299
+  },
+  {
+    "id": "sla-015",
+    "name": "Photon Mono X2",
+    "manufacturer": "Anycubic",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 196,
+      "y": 122,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-resolution"
+    ],
+    "yearReleased": 2023,
+    "msrp": 249
+  },
+  {
+    "id": "sla-016",
+    "name": "Photon Mono M5s",
+    "manufacturer": "Anycubic",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 218,
+      "y": 123,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-resolution",
+      "high-speed",
+      "tilt-release"
+    ],
+    "yearReleased": 2023,
+    "msrp": 369
+  },
+  {
+    "id": "sla-017",
+    "name": "Photon Mono M7 Pro",
+    "manufacturer": "Anycubic",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 223,
+      "y": 126,
+      "z": 230
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-resolution",
+      "high-speed"
+    ],
+    "yearReleased": 2024,
+    "msrp": 399
+  },
+  {
+    "id": "sla-018",
+    "name": "Photon D2",
+    "manufacturer": "Anycubic",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 131,
+      "y": 73,
+      "z": 165
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Castable_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "dlp",
+      "high-resolution",
+      "compact"
+    ],
+    "yearReleased": 2022,
+    "msrp": 499
+  },
+  {
+    "id": "sla-019",
+    "name": "Sonic Mini 8K",
+    "manufacturer": "Phrozen",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 165,
+      "y": 72,
+      "z": 180
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-resolution",
+      "compact",
+      "8k"
+    ],
+    "yearReleased": 2022,
+    "msrp": 399
+  },
+  {
+    "id": "sla-020",
+    "name": "Sonic Mega 8K",
+    "manufacturer": "Phrozen",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 330,
+      "y": 185,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "large-format",
+      "high-resolution",
+      "8k",
+      "premium"
+    ],
+    "yearReleased": 2022,
+    "msrp": 2999
+  },
+  {
+    "id": "sla-021",
+    "name": "Sonic Mighty 8K",
+    "manufacturer": "Phrozen",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 218,
+      "y": 123,
+      "z": 235
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-resolution",
+      "8k",
+      "popular"
+    ],
+    "yearReleased": 2023,
+    "msrp": 699
+  },
+  {
+    "id": "sla-022",
+    "name": "Sonic Mega 8K S",
+    "manufacturer": "Phrozen",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 330,
+      "y": 185,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "large-format",
+      "high-resolution",
+      "8k",
+      "premium",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 3499
+  },
+  {
+    "id": "sla-023",
+    "name": "Phenom",
+    "manufacturer": "Peopoly",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 276,
+      "y": 155,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin"
+    ],
+    "tags": [
+      "large-format",
+      "premium"
+    ],
+    "yearReleased": 2020,
+    "msrp": 1799
+  },
+  {
+    "id": "sla-024",
+    "name": "Phenom L",
+    "manufacturer": "Peopoly",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 345,
+      "y": 194,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin"
+    ],
+    "tags": [
+      "large-format",
+      "premium"
+    ],
+    "yearReleased": 2020,
+    "msrp": 2799
+  },
+  {
+    "id": "sla-025",
+    "name": "Phenom XXL",
+    "manufacturer": "Peopoly",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 527,
+      "y": 296,
+      "z": 550
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin"
+    ],
+    "tags": [
+      "large-format",
+      "premium",
+      "industrial"
+    ],
+    "yearReleased": 2021,
+    "msrp": 4799
+  },
+  {
+    "id": "sla-026",
+    "name": "Pro 95",
+    "manufacturer": "SprintRay",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 192,
+      "y": 112,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "dental",
+      "professional",
+      "premium"
+    ],
+    "yearReleased": 2022,
+    "msrp": 5995
+  },
+  {
+    "id": "sla-027",
+    "name": "Pro 55",
+    "manufacturer": "SprintRay",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 128,
+      "y": 71,
+      "z": 120
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "dental",
+      "professional",
+      "compact"
+    ],
+    "yearReleased": 2020,
+    "msrp": 3995
+  },
+  {
+    "id": "sla-028",
+    "name": "Slash 2 Plus",
+    "manufacturer": "Uniz",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 192,
+      "y": 120,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-speed",
+      "premium"
+    ],
+    "yearReleased": 2020,
+    "msrp": 2999
+  },
+  {
+    "id": "sla-029",
+    "name": "Halot Mage",
+    "manufacturer": "Creality",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 228,
+      "y": 128,
+      "z": 230
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "budget",
+      "high-resolution",
+      "popular"
+    ],
+    "yearReleased": 2023,
+    "msrp": 299
+  },
+  {
+    "id": "sla-030",
+    "name": "Halot Mage Pro",
+    "manufacturer": "Creality",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 228,
+      "y": 128,
+      "z": 230
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-resolution",
+      "high-speed",
+      "tilt-release"
+    ],
+    "yearReleased": 2023,
+    "msrp": 399
+  },
+  {
+    "id": "sla-031",
+    "name": "Halot One Plus",
+    "manufacturer": "Creality",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 172,
+      "y": 102,
+      "z": 160
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin"
+    ],
+    "tags": [
+      "budget",
+      "compact"
+    ],
+    "yearReleased": 2022,
+    "msrp": 229
+  },
+  {
+    "id": "sla-032",
+    "name": "Whale 3 Pro",
+    "manufacturer": "Nova3D",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 209,
+      "y": 118,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "large-format",
+      "wifi"
+    ],
+    "yearReleased": 2023,
+    "msrp": 399
+  },
+  {
+    "id": "sla-033",
+    "name": "Proxima 8K",
+    "manufacturer": "Voxelab",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 192,
+      "y": 108,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin"
+    ],
+    "tags": [
+      "budget",
+      "high-resolution",
+      "8k"
+    ],
+    "yearReleased": 2023,
+    "msrp": 279
+  },
+  {
+    "id": "sla-034",
+    "name": "SL1S Speed",
+    "manufacturer": "Prusa",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 127,
+      "y": 80,
+      "z": 150
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-speed",
+      "open-source",
+      "reliable"
+    ],
+    "yearReleased": 2021,
+    "msrp": 1599
+  },
+  {
+    "id": "sla-035",
+    "name": "Halot Ray",
+    "manufacturer": "Creality",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 198,
+      "y": 112,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin"
+    ],
+    "tags": [
+      "budget",
+      "compact"
+    ],
+    "yearReleased": 2023,
+    "msrp": 199
+  },
+  {
+    "id": "sla-036",
+    "name": "Saturn 3",
+    "manufacturer": "Elegoo",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 218,
+      "y": 123,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "popular",
+      "large-format"
+    ],
+    "yearReleased": 2023,
+    "msrp": 299
+  },
+  {
+    "id": "sla-037",
+    "name": "Photon Mono M5",
+    "manufacturer": "Anycubic",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 218,
+      "y": 123,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "budget",
+      "high-resolution"
+    ],
+    "yearReleased": 2024,
+    "msrp": 299
+  },
+  {
+    "id": "sla-038",
+    "name": "Sonic Mini 8K S",
+    "manufacturer": "Phrozen",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 165,
+      "y": 72,
+      "z": 180
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "high-resolution",
+      "compact",
+      "8k",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 449
+  },
+  {
+    "id": "sla-039",
+    "name": "Photon Mono M5s Pro",
+    "manufacturer": "Anycubic",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 218,
+      "y": 123,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin",
+      "Dental_Resin"
+    ],
+    "tags": [
+      "high-resolution",
+      "high-speed",
+      "professional"
+    ],
+    "yearReleased": 2024,
+    "msrp": 449
+  },
+  {
+    "id": "sla-040",
+    "name": "Sonic Mini 4K",
+    "manufacturer": "Phrozen",
+    "type": "SLA",
+    "buildVolume": {
+      "x": 134,
+      "y": 75,
+      "z": 130
+    },
+    "supportedMaterials": [
+      "Standard_Resin",
+      "Tough_Resin",
+      "Flexible_Resin",
+      "Castable_Resin"
+    ],
+    "tags": [
+      "budget",
+      "compact",
+      "high-resolution"
+    ],
+    "yearReleased": 2021,
+    "msrp": 199
+  },
+  {
+    "id": "cnc-001",
+    "name": "Shapeoko 5 Pro",
+    "manufacturer": "Carbide 3D",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 440,
+      "y": 440,
+      "z": 100
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "HDPE",
+      "MDF",
+      "Plywood",
+      "Brass",
+      "Copper"
+    ],
+    "tags": [
+      "hobbyist",
+      "popular",
+      "router"
+    ],
+    "yearReleased": 2024,
+    "msrp": 2300
+  },
+  {
+    "id": "cnc-002",
+    "name": "Shapeoko 5 Pro 4x2",
+    "manufacturer": "Carbide 3D",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1067,
+      "y": 533,
+      "z": 100
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "HDPE",
+      "MDF",
+      "Plywood",
+      "Brass",
+      "Copper"
+    ],
+    "tags": [
+      "hobbyist",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2024,
+    "msrp": 3000
+  },
+  {
+    "id": "cnc-003",
+    "name": "Shapeoko 5 Pro 4x4",
+    "manufacturer": "Carbide 3D",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1067,
+      "y": 1067,
+      "z": 100
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "HDPE",
+      "MDF",
+      "Plywood",
+      "Brass",
+      "Copper"
+    ],
+    "tags": [
+      "hobbyist",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2024,
+    "msrp": 3700
+  },
+  {
+    "id": "cnc-004",
+    "name": "Nomad 3",
+    "manufacturer": "Carbide 3D",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 203,
+      "y": 203,
+      "z": 76
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Brass",
+      "Copper",
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "HDPE"
+    ],
+    "tags": [
+      "desktop",
+      "enclosed",
+      "mill",
+      "beginner"
+    ],
+    "yearReleased": 2020,
+    "msrp": 2800
+  },
+  {
+    "id": "cnc-005",
+    "name": "X-Carve",
+    "manufacturer": "Inventables",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 750,
+      "y": 750,
+      "z": 100
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "MDF",
+      "Plywood",
+      "Aluminum",
+      "Foam",
+      "Delrin"
+    ],
+    "tags": [
+      "hobbyist",
+      "popular",
+      "router"
+    ],
+    "yearReleased": 2022,
+    "msrp": 2500
+  },
+  {
+    "id": "cnc-006",
+    "name": "X-Carve Pro",
+    "manufacturer": "Inventables",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 115
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "MDF",
+      "Plywood",
+      "Aluminum",
+      "HDPE",
+      "Foam",
+      "Delrin"
+    ],
+    "tags": [
+      "prosumer",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2022,
+    "msrp": 10000
+  },
+  {
+    "id": "cnc-007",
+    "name": "Carvera",
+    "manufacturer": "Inventables",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 300,
+      "y": 200,
+      "z": 75
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Brass",
+      "Copper",
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "HDPE"
+    ],
+    "tags": [
+      "desktop",
+      "enclosed",
+      "mill",
+      "atc"
+    ],
+    "yearReleased": 2023,
+    "msrp": 3999
+  },
+  {
+    "id": "cnc-008",
+    "name": "Carvera Air",
+    "manufacturer": "Inventables",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 200,
+      "y": 150,
+      "z": 60
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "Foam",
+      "MDF"
+    ],
+    "tags": [
+      "desktop",
+      "compact",
+      "beginner"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1999
+  },
+  {
+    "id": "cnc-009",
+    "name": "Woodworker X-50",
+    "manufacturer": "Onefinity",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 816,
+      "y": 816,
+      "z": 114
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "popular",
+      "router"
+    ],
+    "yearReleased": 2022,
+    "msrp": 2600
+  },
+  {
+    "id": "cnc-010",
+    "name": "Machinist X-50",
+    "manufacturer": "Onefinity",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 406,
+      "y": 406,
+      "z": 114
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Brass",
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "HDPE",
+      "MDF"
+    ],
+    "tags": [
+      "hobbyist",
+      "compact",
+      "router"
+    ],
+    "yearReleased": 2022,
+    "msrp": 2400
+  },
+  {
+    "id": "cnc-011",
+    "name": "Journeyman X-50",
+    "manufacturer": "Onefinity",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 816,
+      "z": 114
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "prosumer",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2022,
+    "msrp": 3200
+  },
+  {
+    "id": "cnc-012",
+    "name": "Foreman",
+    "manufacturer": "Onefinity",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 114
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "prosumer",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2023,
+    "msrp": 5000
+  },
+  {
+    "id": "cnc-013",
+    "name": "Foreman Pro",
+    "manufacturer": "Onefinity",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 133
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam",
+      "Brass"
+    ],
+    "tags": [
+      "prosumer",
+      "large-format",
+      "router",
+      "heavy-duty"
+    ],
+    "yearReleased": 2024,
+    "msrp": 7500
+  },
+  {
+    "id": "cnc-014",
+    "name": "PRO 4896",
+    "manufacturer": "Avid CNC",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 2438,
+      "y": 1219,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Aluminum",
+      "Acrylic",
+      "HDPE",
+      "Foam",
+      "Brass",
+      "Copper"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "router",
+      "heavy-duty"
+    ],
+    "yearReleased": 2023,
+    "msrp": 12000
+  },
+  {
+    "id": "cnc-015",
+    "name": "PRO 4848",
+    "manufacturer": "Avid CNC",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Aluminum",
+      "Acrylic",
+      "HDPE",
+      "Foam",
+      "Brass",
+      "Copper"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "router",
+      "heavy-duty"
+    ],
+    "yearReleased": 2023,
+    "msrp": 10500
+  },
+  {
+    "id": "cnc-016",
+    "name": "PRO 2448",
+    "manufacturer": "Avid CNC",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 610,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Aluminum",
+      "Acrylic",
+      "HDPE",
+      "Foam",
+      "Brass"
+    ],
+    "tags": [
+      "professional",
+      "router",
+      "heavy-duty"
+    ],
+    "yearReleased": 2023,
+    "msrp": 9000
+  },
+  {
+    "id": "cnc-017",
+    "name": "Benchtop Pro",
+    "manufacturer": "Avid CNC",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 610,
+      "y": 610,
+      "z": 140
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Aluminum",
+      "Acrylic",
+      "HDPE",
+      "Brass"
+    ],
+    "tags": [
+      "prosumer",
+      "benchtop",
+      "router"
+    ],
+    "yearReleased": 2023,
+    "msrp": 6500
+  },
+  {
+    "id": "cnc-018",
+    "name": "PCNC 440",
+    "manufacturer": "Tormach",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 254,
+      "y": 152,
+      "z": 254
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin",
+      "Wood"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "professional",
+      "benchtop"
+    ],
+    "yearReleased": 2019,
+    "msrp": 5995
+  },
+  {
+    "id": "cnc-019",
+    "name": "PCNC 770",
+    "manufacturer": "Tormach",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 457,
+      "y": 267,
+      "z": 406
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin",
+      "Wood"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "professional"
+    ],
+    "yearReleased": 2021,
+    "msrp": 9995
+  },
+  {
+    "id": "cnc-020",
+    "name": "PCNC 1100",
+    "manufacturer": "Tormach",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 457,
+      "y": 406,
+      "z": 406
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "professional"
+    ],
+    "yearReleased": 2021,
+    "msrp": 14995
+  },
+  {
+    "id": "cnc-021",
+    "name": "24R",
+    "manufacturer": "Tormach",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 610,
+      "y": 406,
+      "z": 355
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin",
+      "Wood"
+    ],
+    "tags": [
+      "mill",
+      "professional",
+      "router"
+    ],
+    "yearReleased": 2022,
+    "msrp": 17500
+  },
+  {
+    "id": "cnc-022",
+    "name": "PrintNC",
+    "manufacturer": "PrintNC",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 720,
+      "y": 440,
+      "z": 130
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Wood",
+      "Acrylic",
+      "MDF",
+      "Plywood",
+      "HDPE",
+      "Brass",
+      "Copper",
+      "Delrin"
+    ],
+    "tags": [
+      "diy",
+      "open-source",
+      "router"
+    ],
+    "yearReleased": 2021,
+    "msrp": 2500
+  },
+  {
+    "id": "cnc-023",
+    "name": "Desktop PCB Mill",
+    "manufacturer": "Bantam Tools",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 140,
+      "y": 114,
+      "z": 38
+    },
+    "supportedMaterials": [
+      "Copper",
+      "Brass",
+      "Aluminum",
+      "Wood",
+      "Acrylic"
+    ],
+    "tags": [
+      "desktop",
+      "pcb",
+      "mill",
+      "enclosed"
+    ],
+    "yearReleased": 2018,
+    "msrp": 4599
+  },
+  {
+    "id": "cnc-024",
+    "name": "Desktop CNC",
+    "manufacturer": "Bantam Tools",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 140,
+      "y": 114,
+      "z": 50
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Brass",
+      "Copper",
+      "Wood",
+      "Acrylic",
+      "Delrin"
+    ],
+    "tags": [
+      "desktop",
+      "mill",
+      "enclosed",
+      "precision"
+    ],
+    "yearReleased": 2022,
+    "msrp": 3999
+  },
+  {
+    "id": "cnc-025",
+    "name": "Mini Mill",
+    "manufacturer": "Haas",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 406,
+      "y": 305,
+      "z": 254
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin",
+      "Nylon"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "industrial",
+      "professional"
+    ],
+    "yearReleased": 2022,
+    "msrp": 37995
+  },
+  {
+    "id": "cnc-026",
+    "name": "Mini Mill 2",
+    "manufacturer": "Haas",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 508,
+      "y": 406,
+      "z": 356
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin",
+      "Nylon"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "industrial",
+      "professional"
+    ],
+    "yearReleased": 2023,
+    "msrp": 44995
+  },
+  {
+    "id": "cnc-027",
+    "name": "VF-2",
+    "manufacturer": "Haas",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 762,
+      "y": 406,
+      "z": 508
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin",
+      "Nylon"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "industrial",
+      "popular"
+    ],
+    "yearReleased": 2023,
+    "msrp": 55995
+  },
+  {
+    "id": "cnc-028",
+    "name": "VF-2SS",
+    "manufacturer": "Haas",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 762,
+      "y": 406,
+      "z": 508
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "industrial",
+      "high-speed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 72995
+  },
+  {
+    "id": "cnc-029",
+    "name": "TM-1P",
+    "manufacturer": "Haas",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 762,
+      "y": 305,
+      "z": 406
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "education",
+      "toolroom"
+    ],
+    "yearReleased": 2022,
+    "msrp": 29995
+  },
+  {
+    "id": "cnc-030",
+    "name": "TM-2P",
+    "manufacturer": "Haas",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1016,
+      "y": 406,
+      "z": 406
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Steel",
+      "Stainless_Steel",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Acrylic",
+      "Delrin"
+    ],
+    "tags": [
+      "mill",
+      "enclosed",
+      "education",
+      "toolroom"
+    ],
+    "yearReleased": 2022,
+    "msrp": 34995
+  },
+  {
+    "id": "cnc-031",
+    "name": "Evolution 4",
+    "manufacturer": "BobsCNC",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 610,
+      "y": 610,
+      "z": 85
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget",
+      "router",
+      "beginner"
+    ],
+    "yearReleased": 2021,
+    "msrp": 530
+  },
+  {
+    "id": "cnc-032",
+    "name": "Evolution 5",
+    "manufacturer": "BobsCNC",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 635,
+      "y": 635,
+      "z": 95
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Foam",
+      "HDPE"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget",
+      "router",
+      "beginner"
+    ],
+    "yearReleased": 2023,
+    "msrp": 650
+  },
+  {
+    "id": "cnc-033",
+    "name": "KL744",
+    "manufacturer": "BobsCNC",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1117,
+      "y": 685,
+      "z": 95
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Foam",
+      "HDPE"
+    ],
+    "tags": [
+      "hobbyist",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2023,
+    "msrp": 850
+  },
+  {
+    "id": "cnc-034",
+    "name": "Genmitsu 3018 PROVer",
+    "manufacturer": "Sainsmart",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 300,
+      "y": 180,
+      "z": 45
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "MDF",
+      "Foam",
+      "PLA"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget",
+      "beginner",
+      "desktop"
+    ],
+    "yearReleased": 2021,
+    "msrp": 240
+  },
+  {
+    "id": "cnc-035",
+    "name": "Genmitsu 4030 PROVer",
+    "manufacturer": "Sainsmart",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 400,
+      "y": 300,
+      "z": 60
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "MDF",
+      "Foam",
+      "HDPE",
+      "Aluminum"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget",
+      "router"
+    ],
+    "yearReleased": 2023,
+    "msrp": 500
+  },
+  {
+    "id": "cnc-036",
+    "name": "Genmitsu 4040 PROVer XL",
+    "manufacturer": "Sainsmart",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 80
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "MDF",
+      "Foam",
+      "HDPE",
+      "Aluminum"
+    ],
+    "tags": [
+      "hobbyist",
+      "router"
+    ],
+    "yearReleased": 2024,
+    "msrp": 680
+  },
+  {
+    "id": "cnc-037",
+    "name": "PROVer 3020",
+    "manufacturer": "Sainsmart",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 300,
+      "y": 200,
+      "z": 50
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "MDF",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget",
+      "beginner",
+      "desktop"
+    ],
+    "yearReleased": 2022,
+    "msrp": 300
+  },
+  {
+    "id": "cnc-038",
+    "name": "LEAD CNC 1010",
+    "manufacturer": "OpenBuilds",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 750,
+      "y": 750,
+      "z": 120
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "diy",
+      "open-source",
+      "router"
+    ],
+    "yearReleased": 2021,
+    "msrp": 1200
+  },
+  {
+    "id": "cnc-039",
+    "name": "LEAD CNC 1515",
+    "manufacturer": "OpenBuilds",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1220,
+      "y": 1220,
+      "z": 120
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "diy",
+      "open-source",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2021,
+    "msrp": 1600
+  },
+  {
+    "id": "cnc-040",
+    "name": "WorkBee 1010",
+    "manufacturer": "OpenBuilds",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 780,
+      "y": 780,
+      "z": 122
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "diy",
+      "router"
+    ],
+    "yearReleased": 2022,
+    "msrp": 1500
+  },
+  {
+    "id": "cnc-041",
+    "name": "WorkBee 1515",
+    "manufacturer": "OpenBuilds",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1250,
+      "y": 1250,
+      "z": 122
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "diy",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2022,
+    "msrp": 1900
+  },
+  {
+    "id": "cnc-042",
+    "name": "MiniMill",
+    "manufacturer": "OpenBuilds",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 200,
+      "y": 200,
+      "z": 80
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "MDF",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "desktop",
+      "budget",
+      "beginner"
+    ],
+    "yearReleased": 2021,
+    "msrp": 500
+  },
+  {
+    "id": "cnc-043",
+    "name": "M.1000",
+    "manufacturer": "Stepcraft",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1000,
+      "y": 600,
+      "z": 140
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "Brass",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "prosumer",
+      "modular",
+      "router"
+    ],
+    "yearReleased": 2023,
+    "msrp": 5500
+  },
+  {
+    "id": "cnc-044",
+    "name": "M.700",
+    "manufacturer": "Stepcraft",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 700,
+      "y": 420,
+      "z": 140
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "Brass",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "prosumer",
+      "modular",
+      "router"
+    ],
+    "yearReleased": 2023,
+    "msrp": 4200
+  },
+  {
+    "id": "cnc-045",
+    "name": "D.840",
+    "manufacturer": "Stepcraft",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 840,
+      "y": 600,
+      "z": 140
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "modular",
+      "router"
+    ],
+    "yearReleased": 2020,
+    "msrp": 3200
+  },
+  {
+    "id": "cnc-046",
+    "name": "D.600",
+    "manufacturer": "Stepcraft",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 600,
+      "y": 420,
+      "z": 140
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "modular",
+      "router",
+      "compact"
+    ],
+    "yearReleased": 2020,
+    "msrp": 2500
+  },
+  {
+    "id": "cnc-047",
+    "name": "LongMill MK2 30x30",
+    "manufacturer": "Sienci Labs",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 770,
+      "y": 720,
+      "z": 114
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "popular",
+      "router",
+      "open-source"
+    ],
+    "yearReleased": 2023,
+    "msrp": 1550
+  },
+  {
+    "id": "cnc-048",
+    "name": "LongMill MK2 48x30",
+    "manufacturer": "Sienci Labs",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 720,
+      "z": 114
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "large-format",
+      "router",
+      "open-source"
+    ],
+    "yearReleased": 2023,
+    "msrp": 2150
+  },
+  {
+    "id": "cnc-049",
+    "name": "AltMill",
+    "manufacturer": "Sienci Labs",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 130
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam",
+      "Brass"
+    ],
+    "tags": [
+      "prosumer",
+      "large-format",
+      "router",
+      "heavy-duty"
+    ],
+    "yearReleased": 2024,
+    "msrp": 5500
+  },
+  {
+    "id": "cnc-050",
+    "name": "Mega V XL",
+    "manufacturer": "MillRight",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 890,
+      "y": 890,
+      "z": 114
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "router",
+      "budget"
+    ],
+    "yearReleased": 2022,
+    "msrp": 1500
+  },
+  {
+    "id": "cnc-051",
+    "name": "Carve King 2",
+    "manufacturer": "MillRight",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 457,
+      "y": 406,
+      "z": 90
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget",
+      "router",
+      "beginner"
+    ],
+    "yearReleased": 2021,
+    "msrp": 700
+  },
+  {
+    "id": "cnc-052",
+    "name": "Silverback 6060",
+    "manufacturer": "YoraHome",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 600,
+      "y": 600,
+      "z": 85
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Foam",
+      "HDPE"
+    ],
+    "tags": [
+      "hobbyist",
+      "router"
+    ],
+    "yearReleased": 2023,
+    "msrp": 800
+  },
+  {
+    "id": "cnc-053",
+    "name": "Silverback 4040",
+    "manufacturer": "YoraHome",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 80
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Foam"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget",
+      "router",
+      "compact"
+    ],
+    "yearReleased": 2023,
+    "msrp": 550
+  },
+  {
+    "id": "cnc-054",
+    "name": "Desktop",
+    "manufacturer": "ShopBot",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 610,
+      "y": 457,
+      "z": 89
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "prosumer",
+      "router",
+      "education"
+    ],
+    "yearReleased": 2022,
+    "msrp": 4900
+  },
+  {
+    "id": "cnc-055",
+    "name": "Desktop MAX",
+    "manufacturer": "ShopBot",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 914,
+      "y": 610,
+      "z": 89
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "prosumer",
+      "router",
+      "education"
+    ],
+    "yearReleased": 2022,
+    "msrp": 6300
+  },
+  {
+    "id": "cnc-056",
+    "name": "PRSalpha",
+    "manufacturer": "ShopBot",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 2438,
+      "y": 1219,
+      "z": 152
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "router",
+      "industrial"
+    ],
+    "yearReleased": 2023,
+    "msrp": 18000
+  },
+  {
+    "id": "cnc-057",
+    "name": "SmartShop II",
+    "manufacturer": "Laguna",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1524,
+      "y": 1219,
+      "z": 152
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "router"
+    ],
+    "yearReleased": 2023,
+    "msrp": 25000
+  },
+  {
+    "id": "cnc-058",
+    "name": "IQ",
+    "manufacturer": "Laguna",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 140
+    },
+    "supportedMaterials": [
+      "Wood",
+      "MDF",
+      "Plywood",
+      "Acrylic",
+      "Aluminum",
+      "HDPE",
+      "Foam"
+    ],
+    "tags": [
+      "prosumer",
+      "router",
+      "enclosed"
+    ],
+    "yearReleased": 2023,
+    "msrp": 15000
+  },
+  {
+    "id": "cnc-059",
+    "name": "MDX-50",
+    "manufacturer": "Roland",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 400,
+      "y": 305,
+      "z": 135
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Brass",
+      "Copper",
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "desktop",
+      "mill",
+      "enclosed",
+      "professional",
+      "atc"
+    ],
+    "yearReleased": 2018,
+    "msrp": 12995
+  },
+  {
+    "id": "cnc-060",
+    "name": "SRM-20",
+    "manufacturer": "Roland",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 203,
+      "y": 152,
+      "z": 60
+    },
+    "supportedMaterials": [
+      "Acrylic",
+      "Wood",
+      "ABS",
+      "Delrin",
+      "Foam"
+    ],
+    "tags": [
+      "desktop",
+      "mill",
+      "enclosed",
+      "education",
+      "compact"
+    ],
+    "yearReleased": 2014,
+    "msrp": 4995
+  },
+  {
+    "id": "cnc-061",
+    "name": "MODELA MDX-540",
+    "manufacturer": "Roland",
+    "type": "CNC",
+    "buildVolume": {
+      "x": 500,
+      "y": 400,
+      "z": 155
+    },
+    "supportedMaterials": [
+      "Aluminum",
+      "Brass",
+      "Copper",
+      "Wood",
+      "Acrylic",
+      "Delrin",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "professional",
+      "mill",
+      "enclosed",
+      "atc",
+      "4-axis"
+    ],
+    "yearReleased": 2016,
+    "msrp": 29995
+  },
+  {
+    "id": "laser-001",
+    "name": "Glowforge Basic",
+    "manufacturer": "Glowforge",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 495,
+      "y": 279,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "popular",
+      "40w"
+    ],
+    "yearReleased": 2018,
+    "msrp": 3995
+  },
+  {
+    "id": "laser-002",
+    "name": "Glowforge Plus",
+    "manufacturer": "Glowforge",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 495,
+      "y": 279,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "popular",
+      "40w"
+    ],
+    "yearReleased": 2018,
+    "msrp": 4995
+  },
+  {
+    "id": "laser-003",
+    "name": "Glowforge Pro",
+    "manufacturer": "Glowforge",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 495,
+      "y": 279,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "prosumer",
+      "popular",
+      "45w",
+      "passthrough"
+    ],
+    "yearReleased": 2018,
+    "msrp": 6995
+  },
+  {
+    "id": "laser-004",
+    "name": "Glowforge Aura",
+    "manufacturer": "Glowforge",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 299,
+      "y": 171,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Vinyl",
+      "Fabric"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "hobbyist",
+      "compact",
+      "6w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 1199
+  },
+  {
+    "id": "laser-005",
+    "name": "xTool D1 Pro 10W",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 432,
+      "y": 406,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "hobbyist",
+      "popular",
+      "10w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 599
+  },
+  {
+    "id": "laser-006",
+    "name": "xTool D1 Pro 20W",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 432,
+      "y": 406,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "hobbyist",
+      "popular",
+      "20w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 899
+  },
+  {
+    "id": "laser-007",
+    "name": "xTool P2",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 600,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "prosumer",
+      "55w",
+      "passthrough"
+    ],
+    "yearReleased": 2023,
+    "msrp": 4999
+  },
+  {
+    "id": "laser-008",
+    "name": "xTool S1 20W",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 498,
+      "y": 319,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "hobbyist",
+      "20w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1299
+  },
+  {
+    "id": "laser-009",
+    "name": "xTool S1 40W",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 498,
+      "y": 319,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "prosumer",
+      "40w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1899
+  },
+  {
+    "id": "laser-010",
+    "name": "xTool M1",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 385,
+      "y": 300,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "hobbyist",
+      "hybrid",
+      "blade-cut",
+      "10w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 999
+  },
+  {
+    "id": "laser-011",
+    "name": "xTool M1 Ultra",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 385,
+      "y": 300,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "prosumer",
+      "hybrid",
+      "blade-cut",
+      "20w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1799
+  },
+  {
+    "id": "laser-012",
+    "name": "xTool F1",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 115,
+      "y": 115,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "diode",
+      "galvo",
+      "portable",
+      "engraver",
+      "10w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 1599
+  },
+  {
+    "id": "laser-013",
+    "name": "xTool F1 Ultra",
+    "manufacturer": "xTool",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 120,
+      "y": 120,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Stainless_Steel",
+      "Aluminum",
+      "Brass",
+      "Copper"
+    ],
+    "tags": [
+      "fiber",
+      "diode",
+      "galvo",
+      "portable",
+      "engraver",
+      "20w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 3499
+  },
+  {
+    "id": "laser-014",
+    "name": "OMTech K40",
+    "manufacturer": "OMTech",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 300,
+      "y": 200,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "budget",
+      "40w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 440
+  },
+  {
+    "id": "laser-015",
+    "name": "OMTech 40W CO2",
+    "manufacturer": "OMTech",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 305,
+      "y": 203,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "budget",
+      "40w"
+    ],
+    "yearReleased": 2021,
+    "msrp": 530
+  },
+  {
+    "id": "laser-016",
+    "name": "OMTech 50W CO2",
+    "manufacturer": "OMTech",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 500,
+      "y": 300,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "50w"
+    ],
+    "yearReleased": 2021,
+    "msrp": 1400
+  },
+  {
+    "id": "laser-017",
+    "name": "OMTech 60W CO2",
+    "manufacturer": "OMTech",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 600,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "prosumer",
+      "60w"
+    ],
+    "yearReleased": 2021,
+    "msrp": 2100
+  },
+  {
+    "id": "laser-018",
+    "name": "OMTech 80W CO2",
+    "manufacturer": "OMTech",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 700,
+      "y": 500,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "prosumer",
+      "80w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 2800
+  },
+  {
+    "id": "laser-019",
+    "name": "OMTech 100W CO2",
+    "manufacturer": "OMTech",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 900,
+      "y": 600,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "100w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 3800
+  },
+  {
+    "id": "laser-020",
+    "name": "OMTech 130W CO2",
+    "manufacturer": "OMTech",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 1000,
+      "y": 600,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "130w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 5200
+  },
+  {
+    "id": "laser-021",
+    "name": "OMTech Polar",
+    "manufacturer": "OMTech",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 510,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "50w",
+      "popular"
+    ],
+    "yearReleased": 2023,
+    "msrp": 2500
+  },
+  {
+    "id": "laser-022",
+    "name": "Laser Master 3",
+    "manufacturer": "Ortur",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "hobbyist",
+      "10w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 500
+  },
+  {
+    "id": "laser-023",
+    "name": "Laser Master 3 LE",
+    "manufacturer": "Ortur",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "budget",
+      "5w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 300
+  },
+  {
+    "id": "laser-024",
+    "name": "Atomstack X20 Pro",
+    "manufacturer": "Atomstack",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "hobbyist",
+      "20w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 600
+  },
+  {
+    "id": "laser-025",
+    "name": "Atomstack X30 Pro",
+    "manufacturer": "Atomstack",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 410,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "hobbyist",
+      "30w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 750
+  },
+  {
+    "id": "laser-026",
+    "name": "Atomstack X40 Pro",
+    "manufacturer": "Atomstack",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 410,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "prosumer",
+      "40w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1100
+  },
+  {
+    "id": "laser-027",
+    "name": "Atomstack S40 Pro",
+    "manufacturer": "Atomstack",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 410,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "hobbyist",
+      "40w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1400
+  },
+  {
+    "id": "laser-028",
+    "name": "Atomstack A5 M50 Pro",
+    "manufacturer": "Atomstack",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 410,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "budget",
+      "5w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 250
+  },
+  {
+    "id": "laser-029",
+    "name": "Sculpfun S30 Pro Max 20W",
+    "manufacturer": "Sculpfun",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 410,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "hobbyist",
+      "20w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 550
+  },
+  {
+    "id": "laser-030",
+    "name": "Sculpfun S30 Ultra 33W",
+    "manufacturer": "Sculpfun",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 600,
+      "y": 600,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "prosumer",
+      "33w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 900
+  },
+  {
+    "id": "laser-031",
+    "name": "Sculpfun S9",
+    "manufacturer": "Sculpfun",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 410,
+      "y": 420,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "budget",
+      "5w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 200
+  },
+  {
+    "id": "laser-032",
+    "name": "Sculpfun iCube Pro",
+    "manufacturer": "Sculpfun",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 130,
+      "y": 130,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric"
+    ],
+    "tags": [
+      "diode",
+      "portable",
+      "compact",
+      "engraver",
+      "5w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 200
+  },
+  {
+    "id": "laser-033",
+    "name": "TwoTrees TS2",
+    "manufacturer": "TwoTrees",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 450,
+      "y": 450,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "hobbyist",
+      "10w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 600
+  },
+  {
+    "id": "laser-034",
+    "name": "TwoTrees TTS-55",
+    "manufacturer": "TwoTrees",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 300,
+      "y": 300,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "budget",
+      "5w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 200
+  },
+  {
+    "id": "laser-035",
+    "name": "TwoTrees TS3",
+    "manufacturer": "TwoTrees",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 460,
+      "y": 460,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "hobbyist",
+      "20w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 800
+  },
+  {
+    "id": "laser-036",
+    "name": "LONGER Ray5 10W",
+    "manufacturer": "LONGER",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "budget",
+      "10w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 350
+  },
+  {
+    "id": "laser-037",
+    "name": "LONGER Ray5 20W",
+    "manufacturer": "LONGER",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "hobbyist",
+      "20w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 500
+  },
+  {
+    "id": "laser-038",
+    "name": "Creality Falcon 2 22W",
+    "manufacturer": "Creality",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 415,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "hobbyist",
+      "22w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 500
+  },
+  {
+    "id": "laser-039",
+    "name": "Creality Falcon 2 40W",
+    "manufacturer": "Creality",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 415,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "open-frame",
+      "prosumer",
+      "40w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 900
+  },
+  {
+    "id": "laser-040",
+    "name": "Creality Falcon 2 Pro 40W",
+    "manufacturer": "Creality",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 415,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Vinyl",
+      "Stainless_Steel"
+    ],
+    "tags": [
+      "diode",
+      "enclosed",
+      "prosumer",
+      "40w"
+    ],
+    "yearReleased": 2024,
+    "msrp": 1300
+  },
+  {
+    "id": "laser-041",
+    "name": "Epilog Zing 16",
+    "manufacturer": "Epilog",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 406,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "30w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 9995
+  },
+  {
+    "id": "laser-042",
+    "name": "Epilog Zing 24",
+    "manufacturer": "Epilog",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 610,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "60w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 15995
+  },
+  {
+    "id": "laser-043",
+    "name": "Epilog Fusion Pro 32",
+    "manufacturer": "Epilog",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 813,
+      "y": 508,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "co2",
+      "fiber",
+      "enclosed",
+      "professional",
+      "dual-source",
+      "80w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 38000
+  },
+  {
+    "id": "laser-044",
+    "name": "Epilog Fusion Pro 48",
+    "manufacturer": "Epilog",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 1219,
+      "y": 914,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "co2",
+      "fiber",
+      "enclosed",
+      "industrial",
+      "dual-source",
+      "120w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 55000
+  },
+  {
+    "id": "laser-045",
+    "name": "Epilog FiberMark 24",
+    "manufacturer": "Epilog",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 610,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Stainless_Steel",
+      "Aluminum",
+      "Brass",
+      "Copper",
+      "Titanium",
+      "Acrylic"
+    ],
+    "tags": [
+      "fiber",
+      "enclosed",
+      "professional",
+      "metal-marking",
+      "50w"
+    ],
+    "yearReleased": 2021,
+    "msrp": 42000
+  },
+  {
+    "id": "laser-046",
+    "name": "Trotec Speedy 100",
+    "manufacturer": "Trotec",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 610,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "60w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 20000
+  },
+  {
+    "id": "laser-047",
+    "name": "Trotec Speedy 300",
+    "manufacturer": "Trotec",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 726,
+      "y": 432,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "80w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 30000
+  },
+  {
+    "id": "laser-048",
+    "name": "Trotec Speedy 400",
+    "manufacturer": "Trotec",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 1000,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "co2",
+      "fiber",
+      "enclosed",
+      "industrial",
+      "120w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 50000
+  },
+  {
+    "id": "laser-049",
+    "name": "Trotec SP500",
+    "manufacturer": "Trotec",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 1245,
+      "y": 710,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "industrial",
+      "large-format",
+      "400w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 85000
+  },
+  {
+    "id": "laser-050",
+    "name": "Universal VLS 2.30",
+    "manufacturer": "Universal Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 406,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "30w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 12000
+  },
+  {
+    "id": "laser-051",
+    "name": "Universal VLS 4.60",
+    "manufacturer": "Universal Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 610,
+      "y": 457,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "60w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 22000
+  },
+  {
+    "id": "laser-052",
+    "name": "Universal VLS 6.60",
+    "manufacturer": "Universal Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 813,
+      "y": 457,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "60w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 28000
+  },
+  {
+    "id": "laser-053",
+    "name": "Universal ILS 9.75",
+    "manufacturer": "Universal Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 914,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass",
+      "Delrin",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "co2",
+      "fiber",
+      "enclosed",
+      "industrial",
+      "dual-source",
+      "75w"
+    ],
+    "yearReleased": 2021,
+    "msrp": 45000
+  },
+  {
+    "id": "laser-054",
+    "name": "Full Spectrum Muse Core",
+    "manufacturer": "Full Spectrum",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 508,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "40w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 3500
+  },
+  {
+    "id": "laser-055",
+    "name": "Full Spectrum Muse 3D",
+    "manufacturer": "Full Spectrum",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 508,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "autofocus",
+      "camera",
+      "45w"
+    ],
+    "yearReleased": 2021,
+    "msrp": 5500
+  },
+  {
+    "id": "laser-056",
+    "name": "Full Spectrum P-Series 48x36",
+    "manufacturer": "Full Spectrum",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 1219,
+      "y": 914,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "large-format",
+      "150w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 18000
+  },
+  {
+    "id": "laser-057",
+    "name": "Thunder Laser Nova 35",
+    "manufacturer": "Thunder Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 900,
+      "y": 500,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "80w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 6500
+  },
+  {
+    "id": "laser-058",
+    "name": "Thunder Laser Nova 51",
+    "manufacturer": "Thunder Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 1300,
+      "y": 900,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "large-format",
+      "100w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 10000
+  },
+  {
+    "id": "laser-059",
+    "name": "Thunder Laser Odin 22",
+    "manufacturer": "Thunder Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 570,
+      "y": 400,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "55w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 4500
+  },
+  {
+    "id": "laser-060",
+    "name": "Thunder Laser Odin 32",
+    "manufacturer": "Thunder Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 800,
+      "y": 500,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "prosumer",
+      "80w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 6000
+  },
+  {
+    "id": "laser-061",
+    "name": "Boss Laser LS-1416",
+    "manufacturer": "Boss Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 356,
+      "y": 406,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "40w"
+    ],
+    "yearReleased": 2021,
+    "msrp": 3000
+  },
+  {
+    "id": "laser-062",
+    "name": "Boss Laser LS-2436",
+    "manufacturer": "Boss Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 610,
+      "y": 914,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "100w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 9000
+  },
+  {
+    "id": "laser-063",
+    "name": "Boss Laser HP-3655",
+    "manufacturer": "Boss Laser",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 914,
+      "y": 1397,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "industrial",
+      "large-format",
+      "150w"
+    ],
+    "yearReleased": 2022,
+    "msrp": 16000
+  },
+  {
+    "id": "laser-064",
+    "name": "Monport 40W",
+    "manufacturer": "Monport",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 305,
+      "y": 203,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "budget",
+      "40w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 460
+  },
+  {
+    "id": "laser-065",
+    "name": "Monport 60W",
+    "manufacturer": "Monport",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 500,
+      "y": 300,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "60w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 1300
+  },
+  {
+    "id": "laser-066",
+    "name": "Monport 80W",
+    "manufacturer": "Monport",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 700,
+      "y": 500,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "prosumer",
+      "80w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 2300
+  },
+  {
+    "id": "laser-067",
+    "name": "Monport 100W",
+    "manufacturer": "Monport",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 900,
+      "y": 600,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "professional",
+      "100w"
+    ],
+    "yearReleased": 2023,
+    "msrp": 3500
+  },
+  {
+    "id": "laser-068",
+    "name": "Flux Beamo",
+    "manufacturer": "Flux",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 300,
+      "y": 210,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "compact",
+      "30w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 2495
+  },
+  {
+    "id": "laser-069",
+    "name": "Flux Beambox",
+    "manufacturer": "Flux",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 400,
+      "y": 375,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "hobbyist",
+      "40w"
+    ],
+    "yearReleased": 2020,
+    "msrp": 3995
+  },
+  {
+    "id": "laser-070",
+    "name": "Flux Beambox Pro",
+    "manufacturer": "Flux",
+    "type": "Laser",
+    "buildVolume": {
+      "x": 600,
+      "y": 375,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "MDF",
+      "Plywood",
+      "Glass"
+    ],
+    "tags": [
+      "co2",
+      "enclosed",
+      "prosumer",
+      "50w"
+    ],
+    "yearReleased": 2021,
+    "msrp": 5495
+  },
+  {
+    "id": "plasma-001",
+    "name": "CrossFire",
+    "manufacturer": "Langmuir Systems",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 610,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget",
+      "popular"
+    ],
+    "yearReleased": 2020,
+    "msrp": 1099
+  },
+  {
+    "id": "plasma-002",
+    "name": "CrossFire PRO",
+    "manufacturer": "Langmuir Systems",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 610,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "hobbyist",
+      "popular",
+      "water-table"
+    ],
+    "yearReleased": 2021,
+    "msrp": 2499
+  },
+  {
+    "id": "plasma-003",
+    "name": "CrossFire XR 2x2",
+    "manufacturer": "Langmuir Systems",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 610,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer",
+      "water-table"
+    ],
+    "yearReleased": 2022,
+    "msrp": 4500
+  },
+  {
+    "id": "plasma-004",
+    "name": "CrossFire XR 4x4",
+    "manufacturer": "Langmuir Systems",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer",
+      "large-format",
+      "water-table"
+    ],
+    "yearReleased": 2022,
+    "msrp": 6500
+  },
+  {
+    "id": "plasma-005",
+    "name": "CrossFire XR 4x8",
+    "manufacturer": "Langmuir Systems",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 2438,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "water-table"
+    ],
+    "yearReleased": 2022,
+    "msrp": 9000
+  },
+  {
+    "id": "plasma-006",
+    "name": "DHC",
+    "manufacturer": "PlasmaCAM",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer",
+      "popular"
+    ],
+    "yearReleased": 2021,
+    "msrp": 4500
+  },
+  {
+    "id": "plasma-007",
+    "name": "Samson",
+    "manufacturer": "PlasmaCAM",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1524,
+      "y": 3048,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "heavy-duty"
+    ],
+    "yearReleased": 2022,
+    "msrp": 12000
+  },
+  {
+    "id": "plasma-008",
+    "name": "Torchmate 4400",
+    "manufacturer": "Torchmate",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer",
+      "water-table"
+    ],
+    "yearReleased": 2022,
+    "msrp": 5500
+  },
+  {
+    "id": "plasma-009",
+    "name": "Torchmate 4800",
+    "manufacturer": "Torchmate",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 2438,
+      "y": 1524,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "water-table"
+    ],
+    "yearReleased": 2022,
+    "msrp": 12000
+  },
+  {
+    "id": "plasma-010",
+    "name": "Torchmate Growth Series 2x2",
+    "manufacturer": "Torchmate",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 610,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget"
+    ],
+    "yearReleased": 2023,
+    "msrp": 2200
+  },
+  {
+    "id": "plasma-011",
+    "name": "Torchmate Growth Series 4x4",
+    "manufacturer": "Torchmate",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer"
+    ],
+    "yearReleased": 2023,
+    "msrp": 4200
+  },
+  {
+    "id": "plasma-012",
+    "name": "Arclight Dynamics FullSheet 4x8",
+    "manufacturer": "Arclight Dynamics",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 2438,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "heavy-duty"
+    ],
+    "yearReleased": 2023,
+    "msrp": 15000
+  },
+  {
+    "id": "plasma-013",
+    "name": "Arclight Dynamics HalfSheet 4x4",
+    "manufacturer": "Arclight Dynamics",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer",
+      "heavy-duty"
+    ],
+    "yearReleased": 2023,
+    "msrp": 10000
+  },
+  {
+    "id": "plasma-014",
+    "name": "Lincoln/Torchmate CNC Plasma",
+    "manufacturer": "Lincoln Electric",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "professional",
+      "water-table"
+    ],
+    "yearReleased": 2022,
+    "msrp": 8000
+  },
+  {
+    "id": "plasma-015",
+    "name": "MaverickCNC MV4",
+    "manufacturer": "MaverickCNC",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer",
+      "water-table"
+    ],
+    "yearReleased": 2023,
+    "msrp": 5000
+  },
+  {
+    "id": "plasma-016",
+    "name": "MaverickCNC MV-PRO",
+    "manufacturer": "MaverickCNC",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 2438,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "professional",
+      "large-format",
+      "water-table"
+    ],
+    "yearReleased": 2023,
+    "msrp": 9500
+  },
+  {
+    "id": "plasma-017",
+    "name": "GoTorch 2x2",
+    "manufacturer": "GoTorch",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 610,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "hobbyist",
+      "portable",
+      "budget"
+    ],
+    "yearReleased": 2022,
+    "msrp": 2300
+  },
+  {
+    "id": "plasma-018",
+    "name": "GoTorch 4x4",
+    "manufacturer": "GoTorch",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer"
+    ],
+    "yearReleased": 2022,
+    "msrp": 4000
+  },
+  {
+    "id": "plasma-019",
+    "name": "BurnTables 2x2",
+    "manufacturer": "BurnTables",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 610,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "hobbyist",
+      "budget"
+    ],
+    "yearReleased": 2023,
+    "msrp": 1800
+  },
+  {
+    "id": "plasma-020",
+    "name": "BurnTables 4x4",
+    "manufacturer": "BurnTables",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "prosumer"
+    ],
+    "yearReleased": 2023,
+    "msrp": 3500
+  },
+  {
+    "id": "plasma-021",
+    "name": "TrackerCNC",
+    "manufacturer": "TrackerCNC",
+    "type": "Plasma",
+    "buildVolume": {
+      "x": 1219,
+      "y": 2438,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum"
+    ],
+    "tags": [
+      "professional",
+      "large-format"
+    ],
+    "yearReleased": 2023,
+    "msrp": 7500
+  },
+  {
+    "id": "waterjet-001",
+    "name": "WAZER Desktop",
+    "manufacturer": "WAZER",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 305,
+      "y": 457,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic",
+      "Wood"
+    ],
+    "tags": [
+      "desktop",
+      "hobbyist",
+      "compact"
+    ],
+    "yearReleased": 2020,
+    "msrp": 7999
+  },
+  {
+    "id": "waterjet-002",
+    "name": "Omax MicroMAX",
+    "manufacturer": "Omax",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 305,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic"
+    ],
+    "tags": [
+      "precision",
+      "professional",
+      "compact"
+    ],
+    "yearReleased": 2021,
+    "msrp": 60000
+  },
+  {
+    "id": "waterjet-003",
+    "name": "Omax ProtoMAX",
+    "manufacturer": "Omax",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 305,
+      "y": 305,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic"
+    ],
+    "tags": [
+      "compact",
+      "education",
+      "professional"
+    ],
+    "yearReleased": 2019,
+    "msrp": 30000
+  },
+  {
+    "id": "waterjet-004",
+    "name": "Omax GlobalMAX 1530",
+    "manufacturer": "Omax",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 3048,
+      "y": 1524,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic",
+      "Wood"
+    ],
+    "tags": [
+      "industrial",
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 150000
+  },
+  {
+    "id": "waterjet-005",
+    "name": "Omax MAXIEM 0707",
+    "manufacturer": "Omax",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 2134,
+      "y": 2134,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic",
+      "Wood"
+    ],
+    "tags": [
+      "professional",
+      "versatile"
+    ],
+    "yearReleased": 2021,
+    "msrp": 90000
+  },
+  {
+    "id": "waterjet-006",
+    "name": "Omax MAXIEM 1515",
+    "manufacturer": "Omax",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 4572,
+      "y": 3048,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic",
+      "Wood"
+    ],
+    "tags": [
+      "industrial",
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 200000
+  },
+  {
+    "id": "waterjet-007",
+    "name": "Flow Mach 100",
+    "manufacturer": "Flow",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 1524,
+      "y": 1524,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic",
+      "Wood"
+    ],
+    "tags": [
+      "professional",
+      "versatile"
+    ],
+    "yearReleased": 2022,
+    "msrp": 100000
+  },
+  {
+    "id": "waterjet-008",
+    "name": "Flow Mach 500",
+    "manufacturer": "Flow",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 4064,
+      "y": 2032,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic",
+      "Wood"
+    ],
+    "tags": [
+      "industrial",
+      "large-format",
+      "heavy-duty"
+    ],
+    "yearReleased": 2023,
+    "msrp": 300000
+  },
+  {
+    "id": "waterjet-009",
+    "name": "WardJet A-0612",
+    "manufacturer": "Ward",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 3658,
+      "y": 1829,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic",
+      "Wood"
+    ],
+    "tags": [
+      "industrial",
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 180000
+  },
+  {
+    "id": "waterjet-010",
+    "name": "AquaCut",
+    "manufacturer": "AquaCut",
+    "type": "Waterjet",
+    "buildVolume": {
+      "x": 1524,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Aluminum",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Glass",
+      "Acrylic"
+    ],
+    "tags": [
+      "professional",
+      "versatile"
+    ],
+    "yearReleased": 2023,
+    "msrp": 85000
+  },
+  {
+    "id": "edm-001",
+    "name": "Sodick AD35L",
+    "manufacturer": "Sodick",
+    "type": "Wire_EDM",
+    "buildVolume": {
+      "x": 350,
+      "y": 250,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "wire-edm",
+      "industrial",
+      "precision"
+    ],
+    "yearReleased": 2022,
+    "msrp": 180000
+  },
+  {
+    "id": "edm-002",
+    "name": "Sodick AG40L",
+    "manufacturer": "Sodick",
+    "type": "EDM",
+    "buildVolume": {
+      "x": 400,
+      "y": 300,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "sinker-edm",
+      "industrial",
+      "precision"
+    ],
+    "yearReleased": 2022,
+    "msrp": 200000
+  },
+  {
+    "id": "edm-003",
+    "name": "Sodick VL400Q",
+    "manufacturer": "Sodick",
+    "type": "Wire_EDM",
+    "buildVolume": {
+      "x": 400,
+      "y": 300,
+      "z": 255
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "wire-edm",
+      "industrial",
+      "precision",
+      "linear-motor"
+    ],
+    "yearReleased": 2023,
+    "msrp": 250000
+  },
+  {
+    "id": "edm-004",
+    "name": "Makino U6",
+    "manufacturer": "Makino",
+    "type": "Wire_EDM",
+    "buildVolume": {
+      "x": 650,
+      "y": 450,
+      "z": 420
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "wire-edm",
+      "industrial",
+      "precision",
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 350000
+  },
+  {
+    "id": "edm-005",
+    "name": "Makino EDAF2",
+    "manufacturer": "Makino",
+    "type": "EDM",
+    "buildVolume": {
+      "x": 350,
+      "y": 250,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "sinker-edm",
+      "industrial",
+      "precision"
+    ],
+    "yearReleased": 2021,
+    "msrp": 150000
+  },
+  {
+    "id": "edm-006",
+    "name": "Makino DUO43",
+    "manufacturer": "Makino",
+    "type": "Wire_EDM",
+    "buildVolume": {
+      "x": 400,
+      "y": 300,
+      "z": 220
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "wire-edm",
+      "industrial",
+      "precision"
+    ],
+    "yearReleased": 2023,
+    "msrp": 280000
+  },
+  {
+    "id": "edm-007",
+    "name": "Mitsubishi MV1200R",
+    "manufacturer": "Mitsubishi",
+    "type": "Wire_EDM",
+    "buildVolume": {
+      "x": 400,
+      "y": 300,
+      "z": 215
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "wire-edm",
+      "industrial",
+      "precision"
+    ],
+    "yearReleased": 2022,
+    "msrp": 200000
+  },
+  {
+    "id": "edm-008",
+    "name": "Mitsubishi MV2400S",
+    "manufacturer": "Mitsubishi",
+    "type": "Wire_EDM",
+    "buildVolume": {
+      "x": 600,
+      "y": 400,
+      "z": 305
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "wire-edm",
+      "industrial",
+      "precision",
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 320000
+  },
+  {
+    "id": "edm-009",
+    "name": "Mitsubishi EA8S",
+    "manufacturer": "Mitsubishi",
+    "type": "EDM",
+    "buildVolume": {
+      "x": 400,
+      "y": 300,
+      "z": 270
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "sinker-edm",
+      "industrial",
+      "precision"
+    ],
+    "yearReleased": 2023,
+    "msrp": 250000
+  },
+  {
+    "id": "edm-010",
+    "name": "GF Machining CUT P 350",
+    "manufacturer": "GF Machining",
+    "type": "Wire_EDM",
+    "buildVolume": {
+      "x": 350,
+      "y": 250,
+      "z": 256
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "wire-edm",
+      "industrial",
+      "precision"
+    ],
+    "yearReleased": 2022,
+    "msrp": 220000
+  },
+  {
+    "id": "edm-011",
+    "name": "GF Machining FORM P 350",
+    "manufacturer": "GF Machining",
+    "type": "EDM",
+    "buildVolume": {
+      "x": 350,
+      "y": 250,
+      "z": 250
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "sinker-edm",
+      "industrial",
+      "precision"
+    ],
+    "yearReleased": 2022,
+    "msrp": 190000
+  },
+  {
+    "id": "edm-012",
+    "name": "Fanuc Robocut C400iC",
+    "manufacturer": "Fanuc",
+    "type": "Wire_EDM",
+    "buildVolume": {
+      "x": 400,
+      "y": 300,
+      "z": 256
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Brass",
+      "Copper",
+      "Bronze",
+      "Aluminum"
+    ],
+    "tags": [
+      "wire-edm",
+      "industrial",
+      "precision",
+      "popular"
+    ],
+    "yearReleased": 2023,
+    "msrp": 230000
+  },
+  {
+    "id": "other-001",
+    "name": "Metal X",
+    "manufacturer": "Markforged",
+    "type": "Other",
+    "buildVolume": {
+      "x": 250,
+      "y": 220,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Copper"
+    ],
+    "tags": [
+      "metal-3d-printer",
+      "industrial",
+      "sintering"
+    ],
+    "yearReleased": 2022,
+    "msrp": 160000
+  },
+  {
+    "id": "other-002",
+    "name": "Studio System 2",
+    "manufacturer": "Desktop Metal",
+    "type": "Other",
+    "buildVolume": {
+      "x": 300,
+      "y": 200,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Copper",
+      "Bronze"
+    ],
+    "tags": [
+      "metal-3d-printer",
+      "professional",
+      "sintering"
+    ],
+    "yearReleased": 2022,
+    "msrp": 120000
+  },
+  {
+    "id": "other-003",
+    "name": "Shop System",
+    "manufacturer": "Desktop Metal",
+    "type": "Other",
+    "buildVolume": {
+      "x": 350,
+      "y": 222,
+      "z": 200
+    },
+    "supportedMaterials": [
+      "Steel",
+      "Stainless_Steel",
+      "Titanium",
+      "Copper",
+      "Bronze"
+    ],
+    "tags": [
+      "metal-3d-printer",
+      "industrial",
+      "binder-jetting"
+    ],
+    "yearReleased": 2022,
+    "msrp": 400000
+  },
+  {
+    "id": "other-004",
+    "name": "Maker 3",
+    "manufacturer": "Cricut",
+    "type": "Other",
+    "buildVolume": {
+      "x": 305,
+      "y": 3658,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "Leather",
+      "Wood"
+    ],
+    "tags": [
+      "craft-cutter",
+      "hobbyist",
+      "popular"
+    ],
+    "yearReleased": 2021,
+    "msrp": 399
+  },
+  {
+    "id": "other-005",
+    "name": "Explore 3",
+    "manufacturer": "Cricut",
+    "type": "Other",
+    "buildVolume": {
+      "x": 292,
+      "y": 3048,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl",
+      "Paper",
+      "Cardboard",
+      "Fabric"
+    ],
+    "tags": [
+      "craft-cutter",
+      "hobbyist",
+      "popular",
+      "beginner"
+    ],
+    "yearReleased": 2021,
+    "msrp": 299
+  },
+  {
+    "id": "other-006",
+    "name": "Joy Xtra",
+    "manufacturer": "Cricut",
+    "type": "Other",
+    "buildVolume": {
+      "x": 216,
+      "y": 1219,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl",
+      "Paper",
+      "Cardboard"
+    ],
+    "tags": [
+      "craft-cutter",
+      "compact",
+      "portable",
+      "beginner"
+    ],
+    "yearReleased": 2023,
+    "msrp": 149
+  },
+  {
+    "id": "other-007",
+    "name": "Cameo 4",
+    "manufacturer": "Silhouette",
+    "type": "Other",
+    "buildVolume": {
+      "x": 305,
+      "y": 3048,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl",
+      "Paper",
+      "Cardboard",
+      "Fabric"
+    ],
+    "tags": [
+      "craft-cutter",
+      "hobbyist",
+      "popular"
+    ],
+    "yearReleased": 2020,
+    "msrp": 300
+  },
+  {
+    "id": "other-008",
+    "name": "Cameo 5",
+    "manufacturer": "Silhouette",
+    "type": "Other",
+    "buildVolume": {
+      "x": 305,
+      "y": 3048,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "Leather"
+    ],
+    "tags": [
+      "craft-cutter",
+      "hobbyist",
+      "popular"
+    ],
+    "yearReleased": 2024,
+    "msrp": 350
+  },
+  {
+    "id": "other-009",
+    "name": "Portrait 4",
+    "manufacturer": "Silhouette",
+    "type": "Other",
+    "buildVolume": {
+      "x": 203,
+      "y": 3048,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl",
+      "Paper",
+      "Cardboard"
+    ],
+    "tags": [
+      "craft-cutter",
+      "compact",
+      "budget",
+      "beginner"
+    ],
+    "yearReleased": 2023,
+    "msrp": 200
+  },
+  {
+    "id": "other-010",
+    "name": "ScanNCut SDX330D",
+    "manufacturer": "Brother",
+    "type": "Other",
+    "buildVolume": {
+      "x": 305,
+      "y": 610,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "Leather"
+    ],
+    "tags": [
+      "craft-cutter",
+      "hobbyist",
+      "scanner",
+      "popular"
+    ],
+    "yearReleased": 2023,
+    "msrp": 700
+  },
+  {
+    "id": "other-011",
+    "name": "PE800",
+    "manufacturer": "Brother",
+    "type": "Other",
+    "buildVolume": {
+      "x": 130,
+      "y": 178,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Fabric"
+    ],
+    "tags": [
+      "embroidery",
+      "hobbyist",
+      "popular"
+    ],
+    "yearReleased": 2019,
+    "msrp": 750
+  },
+  {
+    "id": "other-012",
+    "name": "SE600",
+    "manufacturer": "Brother",
+    "type": "Other",
+    "buildVolume": {
+      "x": 102,
+      "y": 102,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Fabric"
+    ],
+    "tags": [
+      "embroidery",
+      "sewing",
+      "hobbyist",
+      "combo"
+    ],
+    "yearReleased": 2018,
+    "msrp": 530
+  },
+  {
+    "id": "other-013",
+    "name": "FormBox",
+    "manufacturer": "Mayku",
+    "type": "Other",
+    "buildVolume": {
+      "x": 200,
+      "y": 200,
+      "z": 130
+    },
+    "supportedMaterials": [
+      "HDPE",
+      "ABS",
+      "Acrylic",
+      "PETG",
+      "Polycarbonate_Sheet"
+    ],
+    "tags": [
+      "vacuum-former",
+      "desktop",
+      "hobbyist"
+    ],
+    "yearReleased": 2018,
+    "msrp": 699
+  },
+  {
+    "id": "other-014",
+    "name": "Multiplier",
+    "manufacturer": "Mayku",
+    "type": "Other",
+    "buildVolume": {
+      "x": 250,
+      "y": 250,
+      "z": 160
+    },
+    "supportedMaterials": [
+      "HDPE",
+      "ABS",
+      "Acrylic",
+      "PETG",
+      "Polycarbonate_Sheet"
+    ],
+    "tags": [
+      "pressure-former",
+      "desktop",
+      "professional"
+    ],
+    "yearReleased": 2022,
+    "msrp": 4500
+  },
+  {
+    "id": "other-015",
+    "name": "Model B-100",
+    "manufacturer": "Galomb",
+    "type": "Other",
+    "buildVolume": {
+      "x": 50,
+      "y": 50,
+      "z": 50
+    },
+    "supportedMaterials": [
+      "ABS",
+      "Nylon",
+      "HDPE",
+      "Acrylic"
+    ],
+    "tags": [
+      "injection-molder",
+      "desktop",
+      "hobbyist"
+    ],
+    "yearReleased": 2020,
+    "msrp": 1150
+  },
+  {
+    "id": "other-016",
+    "name": "Holipress",
+    "manufacturer": "Holipress",
+    "type": "Other",
+    "buildVolume": {
+      "x": 60,
+      "y": 60,
+      "z": 40
+    },
+    "supportedMaterials": [
+      "ABS",
+      "Nylon",
+      "HDPE"
+    ],
+    "tags": [
+      "injection-molder",
+      "desktop",
+      "hobbyist",
+      "manual"
+    ],
+    "yearReleased": 2021,
+    "msrp": 800
+  },
+  {
+    "id": "other-017",
+    "name": "APSX-PIM",
+    "manufacturer": "APSX",
+    "type": "Other",
+    "buildVolume": {
+      "x": 100,
+      "y": 100,
+      "z": 50
+    },
+    "supportedMaterials": [
+      "ABS",
+      "Nylon",
+      "HDPE",
+      "Acrylic",
+      "PLA",
+      "PETG"
+    ],
+    "tags": [
+      "injection-molder",
+      "desktop",
+      "professional"
+    ],
+    "yearReleased": 2021,
+    "msrp": 9999
+  },
+  {
+    "id": "other-018",
+    "name": "LitePlacer",
+    "manufacturer": "OpenPnP",
+    "type": "Other",
+    "buildVolume": {
+      "x": 350,
+      "y": 550,
+      "z": 0
+    },
+    "supportedMaterials": [],
+    "tags": [
+      "pick-and-place",
+      "pcb",
+      "open-source",
+      "hobbyist"
+    ],
+    "yearReleased": 2020,
+    "msrp": 1800
+  },
+  {
+    "id": "other-019",
+    "name": "Index",
+    "manufacturer": "OpenPnP",
+    "type": "Other",
+    "buildVolume": {
+      "x": 375,
+      "y": 480,
+      "z": 0
+    },
+    "supportedMaterials": [],
+    "tags": [
+      "pick-and-place",
+      "pcb",
+      "open-source",
+      "prosumer"
+    ],
+    "yearReleased": 2022,
+    "msrp": 2500
+  },
+  {
+    "id": "other-020",
+    "name": "Etch",
+    "manufacturer": "Bantam Tools",
+    "type": "Other",
+    "buildVolume": {
+      "x": 200,
+      "y": 200,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Copper"
+    ],
+    "tags": [
+      "pcb",
+      "etching",
+      "desktop",
+      "professional"
+    ],
+    "yearReleased": 2023,
+    "msrp": 3499
+  },
+  {
+    "id": "other-021",
+    "name": "CAMM-1 GS-24",
+    "manufacturer": "Roland",
+    "type": "Other",
+    "buildVolume": {
+      "x": 584,
+      "y": 25000,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl"
+    ],
+    "tags": [
+      "vinyl-cutter",
+      "professional",
+      "popular"
+    ],
+    "yearReleased": 2018,
+    "msrp": 1895
+  },
+  {
+    "id": "other-022",
+    "name": "CAMM-1 GR2-540",
+    "manufacturer": "Roland",
+    "type": "Other",
+    "buildVolume": {
+      "x": 1346,
+      "y": 25000,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl"
+    ],
+    "tags": [
+      "vinyl-cutter",
+      "professional",
+      "large-format"
+    ],
+    "yearReleased": 2022,
+    "msrp": 6995
+  },
+  {
+    "id": "other-023",
+    "name": "VersaUV LEF2-200",
+    "manufacturer": "Roland",
+    "type": "Other",
+    "buildVolume": {
+      "x": 508,
+      "y": 330,
+      "z": 100
+    },
+    "supportedMaterials": [
+      "Acrylic",
+      "Wood",
+      "Leather",
+      "Glass",
+      "Aluminum"
+    ],
+    "tags": [
+      "uv-printer",
+      "flatbed",
+      "professional"
+    ],
+    "yearReleased": 2020,
+    "msrp": 18995
+  },
+  {
+    "id": "other-024",
+    "name": "BN2-20A",
+    "manufacturer": "Roland",
+    "type": "Other",
+    "buildVolume": {
+      "x": 515,
+      "y": 25000,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl"
+    ],
+    "tags": [
+      "print-and-cut",
+      "professional"
+    ],
+    "yearReleased": 2023,
+    "msrp": 8995
+  },
+  {
+    "id": "other-025",
+    "name": "UJF-3042 MkII",
+    "manufacturer": "Mimaki",
+    "type": "Other",
+    "buildVolume": {
+      "x": 300,
+      "y": 420,
+      "z": 153
+    },
+    "supportedMaterials": [
+      "Acrylic",
+      "Wood",
+      "Leather",
+      "Glass",
+      "Aluminum"
+    ],
+    "tags": [
+      "uv-printer",
+      "flatbed",
+      "professional"
+    ],
+    "yearReleased": 2021,
+    "msrp": 22000
+  },
+  {
+    "id": "other-026",
+    "name": "CJV150-75",
+    "manufacturer": "Mimaki",
+    "type": "Other",
+    "buildVolume": {
+      "x": 800,
+      "y": 25000,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl"
+    ],
+    "tags": [
+      "print-and-cut",
+      "professional",
+      "wide-format"
+    ],
+    "yearReleased": 2021,
+    "msrp": 15000
+  },
+  {
+    "id": "other-027",
+    "name": "FiberMark Fusion",
+    "manufacturer": "Epilog",
+    "type": "Other",
+    "buildVolume": {
+      "x": 813,
+      "y": 508,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Stainless_Steel",
+      "Aluminum",
+      "Brass",
+      "Copper",
+      "Titanium"
+    ],
+    "tags": [
+      "fiber-laser",
+      "metal-marking",
+      "professional"
+    ],
+    "yearReleased": 2023,
+    "msrp": 50000
+  },
+  {
+    "id": "other-028",
+    "name": "Aura Craft",
+    "manufacturer": "Glowforge",
+    "type": "Other",
+    "buildVolume": {
+      "x": 299,
+      "y": 171,
+      "z": 0
+    },
+    "supportedMaterials": [
+      "Vinyl",
+      "Paper",
+      "Cardboard",
+      "Fabric",
+      "Leather",
+      "Wood",
+      "Acrylic"
+    ],
+    "tags": [
+      "diode-laser",
+      "craft",
+      "hobbyist",
+      "compact"
+    ],
+    "yearReleased": 2024,
+    "msrp": 799
+  },
+  {
+    "id": "other-029",
+    "name": "2040 Pro",
+    "manufacturer": "Wasp",
+    "type": "Other",
+    "buildVolume": {
+      "x": 200,
+      "y": 200,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "3d-printer",
+      "professional",
+      "fdm"
+    ],
+    "yearReleased": 2022,
+    "msrp": 3500
+  },
+  {
+    "id": "other-030",
+    "name": "Delta 4070",
+    "manufacturer": "Wasp",
+    "type": "Other",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 700
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "3d-printer",
+      "professional",
+      "fdm",
+      "large-format",
+      "delta"
+    ],
+    "yearReleased": 2023,
+    "msrp": 6500
+  },
+  {
+    "id": "other-031",
+    "name": "1800 Pro",
+    "manufacturer": "Massivit",
+    "type": "Other",
+    "buildVolume": {
+      "x": 1450,
+      "y": 1110,
+      "z": 1800
+    },
+    "supportedMaterials": [
+      "Standard_Resin"
+    ],
+    "tags": [
+      "3d-printer",
+      "industrial",
+      "large-format",
+      "gdp"
+    ],
+    "yearReleased": 2022,
+    "msrp": 250000
+  },
+  {
+    "id": "other-032",
+    "name": "ONE",
+    "manufacturer": "BigRep",
+    "type": "Other",
+    "buildVolume": {
+      "x": 1005,
+      "y": 1005,
+      "z": 1005
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "3d-printer",
+      "industrial",
+      "large-format",
+      "fdm"
+    ],
+    "yearReleased": 2022,
+    "msrp": 180000
+  },
+  {
+    "id": "other-033",
+    "name": "STUDIO",
+    "manufacturer": "BigRep",
+    "type": "Other",
+    "buildVolume": {
+      "x": 500,
+      "y": 1000,
+      "z": 500
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "3d-printer",
+      "professional",
+      "large-format",
+      "fdm"
+    ],
+    "yearReleased": 2023,
+    "msrp": 70000
+  },
+  {
+    "id": "other-034",
+    "name": "BIG-Meter",
+    "manufacturer": "Modix",
+    "type": "Other",
+    "buildVolume": {
+      "x": 1010,
+      "y": 1010,
+      "z": 1010
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon"
+    ],
+    "tags": [
+      "3d-printer",
+      "professional",
+      "large-format",
+      "fdm",
+      "diy"
+    ],
+    "yearReleased": 2023,
+    "msrp": 12000
+  },
+  {
+    "id": "other-035",
+    "name": "Artisan",
+    "manufacturer": "Snapmaker",
+    "type": "Other",
+    "buildVolume": {
+      "x": 400,
+      "y": 400,
+      "z": 400
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Nylon",
+      "Wood",
+      "Acrylic",
+      "Leather",
+      "Aluminum"
+    ],
+    "tags": [
+      "3-in-1",
+      "3d-printer",
+      "laser",
+      "cnc",
+      "enclosed",
+      "popular"
+    ],
+    "yearReleased": 2023,
+    "msrp": 2799
+  },
+  {
+    "id": "other-036",
+    "name": "A350T",
+    "manufacturer": "Snapmaker",
+    "type": "Other",
+    "buildVolume": {
+      "x": 320,
+      "y": 350,
+      "z": 330
+    },
+    "supportedMaterials": [
+      "PLA",
+      "PETG",
+      "ABS",
+      "Wood",
+      "Acrylic",
+      "Leather"
+    ],
+    "tags": [
+      "3-in-1",
+      "3d-printer",
+      "laser",
+      "cnc",
+      "enclosed",
+      "popular"
+    ],
+    "yearReleased": 2022,
+    "msrp": 1599
+  }
+]
